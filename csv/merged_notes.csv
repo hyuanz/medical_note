@@ -1,0 +1,2182 @@
+note_ai,note_reviewed,note_ground_truth
+"CHIEF COMPLAINT:
+Evaluation and management of marginal zone lymphoma of the parotid gland
+
+DISEASE HISTORY:
+The  patient  has  a  known  diagnosis  of  Extranodal  Marginal  Zone  Lymphoma  of  the  Parotid  Gland  previously  determined  to  be  Stage IE,  following  surgical  excision.  Historical  PET  CT  scans  indicated  no  detectable  malignancy  beyond  the  localized  site.  A  recent biopsy,  however,  from  a  bronchoscopic  procedure  has  indicated  involvement  in  the  lung,  suggesting  further  spread. 04/15/25:  Patient  presents  for  followup  of  marginal  zone  lymphoma.  Outside  review  of  biopsies  at  MSK  confirmed  marginal  zone lymphoma  in  both  parotid  gland  and  lung  biopsy.  Imaging  review  with  radiologists  from  both  institutions  revealed  evidence  of pulmonary  fibrosis  in  both  lungs,  which  is  believed  to  be  related  to  the  lymphoma.  Patient  reports  feeling  well  currently.  CAT  scan from  November  2024  showed  the  same  pattern  of  fibrosis  that  was  later  seen  on  PET  scan.  Pulmonary  fibrosis  is  noted  to  be irreversible.  No  recent  respiratory  symptoms  reported.05/19/25:  Patient  presents  for  first  chemotherapy  treatment  with  Bendamustine­Rituximab  regimen.  Patient  reports  experiencing night  sweats  and  occasional  chills,  but  denies  fevers.  Patient  notes  some  shortness  of  breath  when  climbing  stairs  but  not  at  rest. Patient  reports  decreased  water  intake  compared  to  his  previous  habits.  Patient  is  currently  taking  an  antibiotic  for  a  tooth  infection, which  is  improving.  Patient  also  reports  having  pulmonary  fibrosis  with  persistent  phlegm  that  he  has  difficulty  expectorating,  and notes  one  episode  where  he  coughed  up  blood.  Patient  has  contacted  his  pulmonologist  about  this  issue.
+
+INTERVAL HISTORY:
+08/11/25: Rafael presents for follow-up and fourth cycle of Bendamustine-Rituximab chemotherapy. He reports significant improvement in cough symptoms, which is consistent with positive response to treatment. Rafael has gained weight, increasing from 191 to 201 pounds. He reports experiencing occasional constipation during his third cycle, with two episodes of difficult bowel movements, but denies current issues. He continues to exercise regularly at the gym. Rafael reports experiencing fatigue, particularly after eating. He also mentions occasional acid reflux. No neuropathy, numbness, or tingling in extremities reported. The parotid area is healing well with only localized numbness at the surgical site.
+
+ALLERGIES:
+No known allergies
+No known drug allergies
+
+MEDICATIONS:
+Continued medications: Akynzeo (fosnetupitant) 235 mg-0.25 mg intravenous powder for solution, ALLOPURINOL 300MG TABLETS, bendamustine 100 mg intravenous powder for solution, bendamustine 100 mg intravenous powder for solution, prednisone 2.5 mg tablet, Riabni 10 mg/mL intravenous solution, SULFAMETHOXAZOLE/TRIMETHOPRIM DS  800-160 MG TABS, Treanda 100 mg intravenous powder for solution.
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+OBJECTIVE:
+Physical Examination:
+Gen: Well developed well nourished. HEENT:PERRLA,EOMI, sclera anicteric, oropharynx clear. Nodes: No peripheral adenopathy. Chest: Clear bilaterally. Heart: S1 S2 no murmurs, regular heartbeat. Abd: Soft, +BS, non tender and non distended, no masses, no organomegaly. Ext: No edema. Skin: no rash. Neuro: motor and sensory grossly intact. Musculoskeletal: Normal gait.
+
+IMPRESSION:
+1.  Extranodal  Marginal  Zone  Lymphoma  of  the  Parotid  Gland  and  Lungs  (Stage  I):  MSK  review  confirmed  marginal  zone  lymphoma in  both  parotid  gland  and  lung  biopsies.  Imaging  shows  evidence  of  pulmonary  fibrosis  in  both  lungs  believed  to  be  related  to  the lymphoma.  This  is  a  rare  presentation,  with  less  than  5%  of  marginal  zone  lymphoma  cases  reported  worldwide  involving  the  lungs. The  lymphoma  is  likely  to  have  been  present  for  years  before  detection,  which  is  typical  of  this  indolent  disease.  Treatment  is recommended  due  to  the  presence  of  fibrosis.  Patient  is  continuing BR  (Bendamustine­Rituximab)  chemotherapy  today. He reports only mild fatigue and occasional cold sensations. Laboratory values remain stable with normal white blood cell count (4.9) and hemoglobin (12.2). Patient's weight has increased from 191 to 201 pounds, which he attributes to improved exercise routine. Treatment is addressing the nodular pattern observed in the lungs. Significant improvement in persistent cough noted, suggesting positive response to treatment.
+2.  Pulmonary  fibrosis:  Bilateral  pulmonary  fibrosis  noted  on  imaging,  now  confirmed  to  be  related  to  the  underlying  lymphoma.  This is  an  irreversible  condition.  Patient  is  unusually  young  to  have  developed  pulmonary  fibrosis,  supporting  the  connection  to  the lymphoma  rather  than  environmental  exposures  or  idiopathic  causes.  Patient  reports  persistent  phlegm  with  difficulty  expectorating and  one  episode  of  hemoptysis.  Patient  will  be  following  up  with  his  pulmonologist  regarding  these  symptoms.  Patient reports marked improvement in cough symptoms.
+
+PLAN:
+Continue with Bendamustine-Rituximab chemotherapy regimen for cycles 4-6.
+Schedule PET/CT scan after completion of cycle 6.
+Continue allergy medication without interruption through end of treatment.
+Assess need for continued allopurinol based on today's blood work.
+Refill omeprazole for acid reflux symptoms.
+Encourage increased water intake, especially during hot weather.
+Use stool softener/laxative as needed for constipation.
+Continue regular exercise routine to help manage treatment side effects.
+Plan for transition to surveillance after cycle 6 with PET/CT scans every 6 months for 2 years, then annually for 3 years.
+Schedule follow-up blood tests every 3-4 months.
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software.","CHIEF COMPLAINT:
+Evaluation and management of marginal zone lymphoma of the parotid gland
+
+DISEASE HISTORY:
+The  patient  has  a  known  diagnosis  of  Extranodal  Marginal  Zone  Lymphoma  of  the  Parotid  Gland  previously  determined  to  be  Stage IE,  following  surgical  excision.  Historical  PET  CT  scans  indicated  no  detectable  malignancy  beyond  the  localized  site.  A  recent biopsy,  however,  from  a  bronchoscopic  procedure  has  indicated  involvement  in  the  lung,  suggesting  further  spread. 04/15/25:  Patient  presents  for  followup  of  marginal  zone  lymphoma.  Outside  review  of  biopsies  at  MSK  confirmed  marginal  zone lymphoma  in  both  parotid  gland  and  lung  biopsy.  Imaging  review  with  radiologists  from  both  institutions  revealed  evidence  of pulmonary  fibrosis  in  both  lungs,  which  is  believed  to  be  related  to  the  lymphoma.  Patient  reports  feeling  well  currently.  CAT  scan from  November  2024  showed  the  same  pattern  of  fibrosis  that  was  later  seen  on  PET  scan.  Pulmonary  fibrosis  is  noted  to  be irreversible.  No  recent  respiratory  symptoms  reported.05/19/25:  Patient  presents  for  first  chemotherapy  treatment  with  Bendamustine­Rituximab  regimen.  Patient  reports  experiencing night  sweats  and  occasional  chills,  but  denies  fevers.  Patient  notes  some  shortness  of  breath  when  climbing  stairs  but  not  at  rest. Patient  reports  decreased  water  intake  compared  to  his  previous  habits.  Patient  is  currently  taking  an  antibiotic  for  a  tooth  infection, which  is  improving.  Patient  also  reports  having  pulmonary  fibrosis  with  persistent  phlegm  that  he  has  difficulty  expectorating,  and notes  one  episode  where  he  coughed  up  blood.  Patient  has  contacted  his  pulmonologist  about  this  issue.
+
+INTERVAL HISTORY:
+08/11/25: Rafael presents for follow-up and fourth cycle of Bendamustine-Rituximab chemotherapy. He reports significant improvement in cough symptoms, which is consistent with positive response to treatment. Rafael has gained weight, increasing from 191 to 201 pounds. He reports experiencing occasional constipation during his third cycle, with two episodes of difficult bowel movements, but denies current issues. He continues to exercise regularly at the gym. Rafael reports experiencing fatigue, particularly after eating. He also mentions occasional acid reflux. No neuropathy, numbness, or tingling in extremities reported. The parotid area is healing well with only localized numbness at the surgical site.
+
+ALLERGIES:
+No known allergies
+No known drug allergies
+
+MEDICATIONS:
+Continued medications: Akynzeo (fosnetupitant) 235 mg-0.25 mg intravenous powder for solution, ALLOPURINOL 300MG TABLETS, bendamustine 100 mg intravenous powder for solution, bendamustine 100 mg intravenous powder for solution, prednisone 2.5 mg tablet, Riabni 10 mg/mL intravenous solution, SULFAMETHOXAZOLE/TRIMETHOPRIM DS  800-160 MG TABS, Treanda 100 mg intravenous powder for solution.
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+OBJECTIVE:
+Physical Examination:
+Gen: Well developed well nourished. HEENT:PERRLA,EOMI, sclera anicteric, oropharynx clear. Nodes: No peripheral adenopathy. Chest: Clear bilaterally. Heart: S1 S2 no murmurs, regular heartbeat. Abd: Soft, +BS, non tender and non distended, no masses, no organomegaly. Ext: No edema. Skin: no rash. Neuro: motor and sensory grossly intact. Musculoskeletal: Normal gait.
+
+IMPRESSION:
+1.  Extranodal  Marginal  Zone  Lymphoma  of  the  Parotid  Gland  and  Lungs  (Stage  I):  MSK  review  confirmed  marginal  zone  lymphoma in  both  parotid  gland  and  lung  biopsies.  Imaging  shows  evidence  of  pulmonary  fibrosis  in  both  lungs  believed  to  be  related  to  the lymphoma.  This  is  a  rare  presentation,  with  less  than  5%  of  marginal  zone  lymphoma  cases  reported  worldwide  involving  the  lungs. The  lymphoma  is  likely  to  have  been  present  for  years  before  detection,  which  is  typical  of  this  indolent  disease.  Treatment  is recommended  due  to  the  presence  of  fibrosis.  Patient  is  continuing BR  (Bendamustine­Rituximab)  chemotherapy  today. He reports only mild fatigue and occasional cold sensations. Laboratory values remain stable with normal white blood cell count (4.9) and hemoglobin (12.2). Patient's weight has increased from 191 to 201 pounds, which he attributes to improved exercise routine. Treatment is addressing the nodular pattern observed in the lungs. Significant improvement in persistent cough noted, suggesting positive response to treatment.
+2.  Pulmonary  fibrosis:  Bilateral  pulmonary  fibrosis  noted  on  imaging,  now  confirmed  to  be  related  to  the  underlying  lymphoma.  This is  an  irreversible  condition.  Patient  is  unusually  young  to  have  developed  pulmonary  fibrosis,  supporting  the  connection  to  the lymphoma  rather  than  environmental  exposures  or  idiopathic  causes.  Patient  reports  persistent  phlegm  with  difficulty  expectorating and  one  episode  of  hemoptysis.  Patient  will  be  following  up  with  his  pulmonologist  regarding  these  symptoms.  Patient reports marked improvement in cough symptoms.
+
+PLAN:
+Continue with Bendamustine-Rituximab chemotherapy regimen for cycles 4-6.
+Schedule PET/CT scan after completion of cycle 6.
+Continue allergy medication without interruption through end of treatment.
+Assess need for continued allopurinol based on today's blood work.
+Refill omeprazole for acid reflux symptoms.
+Encourage increased water intake, especially during hot weather.
+Use stool softener/laxative as needed for constipation.
+Continue regular exercise routine to help manage treatment side effects.
+Plan for transition to surveillance after cycle 6 with PET/CT scans every 6 months for 2 years, then annually for 3 years.
+Schedule follow-up blood tests every 3-4 months.
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software.","CHIEF COMPLAINT:
+Evaluation and management of marginal zone lymphoma of the parotid gland
+
+DISEASE HISTORY:
+The  patient  has  a  known  diagnosis  of  Extranodal  Marginal  Zone  Lymphoma  of  the  Parotid  Gland  previously  determined  to  be  Stage IE,  following  surgical  excision.  Historical  PET  CT  scans  indicated  no  detectable  malignancy  beyond  the  localized  site.  A  recent biopsy,  however,  from  a  bronchoscopic  procedure  has  indicated  involvement  in  the  lung,  suggesting  further  spread. 04/15/25:  Patient  presents  for  followup  of  marginal  zone  lymphoma.  Outside  review  of  biopsies  at  MSK  confirmed  marginal  zone lymphoma  in  both  parotid  gland  and  lung  biopsy.  Imaging  review  with  radiologists  from  both  institutions  revealed  evidence  of pulmonary  fibrosis  in  both  lungs,  which  is  believed  to  be  related  to  the  lymphoma.  Patient  reports  feeling  well  currently.  CAT  scan from  November  2024  showed  the  same  pattern  of  fibrosis  that  was  later  seen  on  PET  scan.  Pulmonary  fibrosis  is  noted  to  be irreversible.  No  recent  respiratory  symptoms  reported.05/19/25:  Patient  presents  for  first  chemotherapy  treatment  with  Bendamustine­Rituximab  regimen.  Patient  reports  experiencing night  sweats  and  occasional  chills,  but  denies  fevers.  Patient  notes  some  shortness  of  breath  when  climbing  stairs  but  not  at  rest. Patient  reports  decreased  water  intake  compared  to  his  previous  habits.  Patient  is  currently  taking  an  antibiotic  for  a  tooth  infection, which  is  improving.  Patient  also  reports  having  pulmonary  fibrosis  with  persistent  phlegm  that  he  has  difficulty  expectorating,  and notes  one  episode  where  he  coughed  up  blood.  Patient  has  contacted  his  pulmonologist  about  this  issue.
+
+INTERVAL HISTORY:
+08/11/25: Rafael presents for follow-up and fourth cycle of Bendamustine-Rituximab chemotherapy. He reports significant improvement in cough symptoms, which is consistent with positive response to treatment. Rafael has gained weight, increasing from 191 to 201 pounds. He reports experiencing occasional constipation during his third cycle, with two episodes of difficult bowel movements, but denies current issues. He continues to exercise regularly at the gym. Rafael reports experiencing fatigue, particularly after eating. He also mentions occasional acid reflux. No neuropathy, numbness, or tingling in extremities reported. The parotid area is healing well with only localized numbness at the surgical site.
+
+ALLERGIES:
+No known allergies
+No known drug allergies
+
+MEDICATIONS:
+Continued medications: Akynzeo (fosnetupitant) 235 mg-0.25 mg intravenous powder for solution, ALLOPURINOL 300MG TABLETS, bendamustine 100 mg intravenous powder for solution, bendamustine 100 mg intravenous powder for solution, prednisone 2.5 mg tablet, Riabni 10 mg/mL intravenous solution, SULFAMETHOXAZOLE/TRIMETHOPRIM DS  800-160 MG TABS, Treanda 100 mg intravenous powder for solution.
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+OBJECTIVE:
+Physical Examination:
+Gen: Well developed well nourished. HEENT:PERRLA,EOMI, sclera anicteric, oropharynx clear. Nodes: No peripheral adenopathy. Chest: Clear bilaterally. Heart: S1 S2 no murmurs, regular heartbeat. Abd: Soft, +BS, non tender and non distended, no masses, no organomegaly. Ext: No edema. Skin: no rash. Neuro: motor and sensory grossly intact. Musculoskeletal: Normal gait.
+
+IMPRESSION:
+1.  Extranodal  Marginal  Zone  Lymphoma  of  the  Parotid  Gland  and  Lungs  (Stage  I):  MSK  review  confirmed  marginal  zone  lymphoma in  both  parotid  gland  and  lung  biopsies.  Imaging  shows  evidence  of  pulmonary  fibrosis  in  both  lungs  believed  to  be  related  to  the lymphoma.  This  is  a  rare  presentation,  with  less  than  5%  of  marginal  zone  lymphoma  cases  reported  worldwide  involving  the  lungs. The  lymphoma  is  likely  to  have  been  present  for  years  before  detection,  which  is  typical  of  this  indolent  disease.  Treatment  is recommended  due  to  the  presence  of  fibrosis.  Patient  is  continuing BR  (Bendamustine­Rituximab)  chemotherapy  today. He reports only mild fatigue and occasional cold sensations. Laboratory values remain stable with normal white blood cell count (4.9) and hemoglobin (12.2). Patient's weight has increased from 191 to 201 pounds, which he attributes to improved exercise routine. Treatment is addressing the nodular pattern observed in the lungs. Significant improvement in persistent cough noted, suggesting positive response to treatment.
+2.  Pulmonary  fibrosis:  Bilateral  pulmonary  fibrosis  noted  on  imaging,  now  confirmed  to  be  related  to  the  underlying  lymphoma.  This is  an  irreversible  condition.  Patient  is  unusually  young  to  have  developed  pulmonary  fibrosis,  supporting  the  connection  to  the lymphoma  rather  than  environmental  exposures  or  idiopathic  causes.  Patient  reports  persistent  phlegm  with  difficulty  expectorating and  one  episode  of  hemoptysis.  Patient  will  be  following  up  with  his  pulmonologist  regarding  these  symptoms.  Patient reports marked improvement in cough symptoms.
+
+PLAN:
+Continue with Bendamustine-Rituximab chemotherapy regimen for cycles 4-6.
+Schedule PET/CT scan after completion of cycle 6.
+Continue allergy medication without interruption through end of treatment.
+Assess need for continued allopurinol based on today's blood work.
+Refill omeprazole for acid reflux symptoms.
+Encourage increased water intake, especially during hot weather.
+Use stool softener/laxative as needed for constipation.
+Continue regular exercise routine to help manage treatment side effects.
+Plan for transition to surveillance after cycle 6 with PET/CT scans every 6 months for 2 years, then annually for 3 years.
+Schedule follow-up blood tests every 3-4 months."
+"CHIEF COMPLAINT: Evaluation and management of: BPH and OAB.
+
+HPI: 
+Follow-up visit. No new complaints. Good control of urinary symptoms with Rapaflo (silodosin) 8mg daily and Prostate S.R. vitamin supplement twice daily. Patient is not currently taking Trospium as previously prescribed. Patient has been maintaining PSA levels in the low 3s as his baseline, with current PSA at 3.9, showing a slight elevation.
+
+Physical Exam:
+Digital rectal examination performed.
+
+Laboratory Results:
+PSA: 3.9
+Bladder scan: 4 mL
+
+Imaging Results:
+
+Procedure:
+
+Plan:
+1. Benign Prostatic Hyperplasia (BPH) - Stable: Continue Silodosin 8mg daily. Patient to continue Prostate S.R. vitamin supplement twice daily. Behavioral modifications, decreasing fluid intake three hours prior to bedtime, and avoiding bladder irritants such as caffeine were discussed. Behavioral modifications, decreasing fluid intake three hours prior to bedtime, and avoiding bladder irritants such as caffeine, alcohol, spicy and acidic foods discussed.
+
+2. Elevated PSA - Monitoring: Current PSA 3.9, slightly elevated from baseline in the low 3s. Will obtain 4K score today to assess risk for prostate cancer. If 4K score shows elevated risk, will consider prostate MRI. If 4K score is reassuring, will continue monitoring. Patient previously had 4K score in 2022. Will repeat PSA in 6 months. I had a discussion with the patient about the significance of elevated PSA. Most common etiologies are BPH, inflammation, infection, or an underlying tumor. The only definitive way to distinguish between these diagnoses is with a prostate biopsy. I have discussed the risks including but not limited to UTI, sepsis, hematuria, hematochezia, hematospermia, and urinary retention.
+
+3. Overactive Bladder (OAB) - Stable: Patient not currently taking Trospium but symptoms appear controlled with current regimen. Treatment options for Overactive Bladder Syndrome (OAB) were discussed. Behavior/lifestyle modifications including modifying voiding habits (timed/delayed voiding, fluid management, pelvic floor exercises, weight loss, and avoiding bladder irritants such as alcoholic beverages, carbonated beverages, spicy/acidic food, chocolate, citrus fruits, apples, coffee/tea, cranberry products, dairy, sugar/sugar substitutes, and vinegar. Treatment with antimuscarinics and beta-3 agonists were discussed. Side effects including constipation, visual changes, dry mouth, hypertension, and changes in memory were explained. Counseled that medications work best when used in combination with behavior/lifestyle modifications. 3rd line treatment options including intravesical Botox, PTNS, and Sacral neuromodulation also discussed.
+
+Macros added: [BPH, Elevated PSA, Overactive Bladder]","CHIEF COMPLAINT: Evaluation and management of: BPH and OAB.
+
+HPI: 
+Follow-up visit. No new complaints. Good control of urinary symptoms with Rapaflo (silodosin) 8mg daily and Prostate S.R. vitamin supplement twice daily. Patient is not currently taking Trospium as previously prescribed. Patient has been maintaining PSA levels in the low 3s as his baseline, with current PSA at 3.9, showing a slight elevation.
+
+Physical Exam:
+Digital rectal examination performed.
+
+Laboratory Results:
+PSA: 3.9
+Bladder scan: 4 mL
+
+Imaging Results:
+
+Procedure:
+
+Plan:
+1. Benign Prostatic Hyperplasia (BPH) - Stable: Continue Silodosin 8mg daily. Patient to continue Prostate S.R. vitamin supplement twice daily. Behavioral modifications, decreasing fluid intake three hours prior to bedtime, and avoiding bladder irritants such as caffeine were discussed. Behavioral modifications, decreasing fluid intake three hours prior to bedtime, and avoiding bladder irritants such as caffeine, alcohol, spicy and acidic foods discussed.
+
+2. Elevated PSA - Monitoring: Current PSA 3.9, slightly elevated from baseline in the low 3s. Will obtain 4K score today to assess risk for prostate cancer. If 4K score shows elevated risk, will consider prostate MRI. If 4K score is reassuring, will continue monitoring. Patient previously had 4K score in 2022. Will repeat PSA in 6 months. I had a discussion with the patient about the significance of elevated PSA. Most common etiologies are BPH, inflammation, infection, or an underlying tumor. The only definitive way to distinguish between these diagnoses is with a prostate biopsy. I have discussed the risks including but not limited to UTI, sepsis, hematuria, hematochezia, hematospermia, and urinary retention.
+
+3. Overactive Bladder (OAB) - Stable: Patient not currently taking Trospium but symptoms appear controlled with current regimen. Treatment options for Overactive Bladder Syndrome (OAB) were discussed. Behavior/lifestyle modifications including modifying voiding habits (timed/delayed voiding, fluid management, pelvic floor exercises, weight loss, and avoiding bladder irritants such as alcoholic beverages, carbonated beverages, spicy/acidic food, chocolate, citrus fruits, apples, coffee/tea, cranberry products, dairy, sugar/sugar substitutes, and vinegar. Treatment with antimuscarinics and beta-3 agonists were discussed. Side effects including constipation, visual changes, dry mouth, hypertension, and changes in memory were explained. Counseled that medications work best when used in combination with behavior/lifestyle modifications. 3rd line treatment options including intravesical Botox, PTNS, and Sacral neuromodulation also discussed.
+
+Macros added: [BPH, Elevated PSA, Overactive Bladder]","CHIEF COMPLAINT: Evaluation and management of: BPH and OAB.
+
+HPI: 
+Follow-up visit. No new complaints. Good control of urinary symptoms with Rapaflo (silodosin) 8mg daily and Prostate S.R. vitamin supplement twice daily. Patient is not currently taking Trospium as previously prescribed. Patient has been maintaining PSA levels in the low 3s as his baseline, with current PSA at 3.9, showing a slight elevation.
+
+Physical Exam:
+Digital rectal examination performed.
+
+Laboratory Results:
+PSA: 3.9
+Bladder scan: 4 mL
+
+Imaging Results:
+
+Procedure:
+
+Plan:
+1. Benign Prostatic Hyperplasia (BPH) - Stable: Continue Silodosin 8mg daily. Patient to continue Prostate S.R. vitamin supplement twice daily. Behavioral modifications, decreasing fluid intake three hours prior to bedtime, and avoiding bladder irritants such as caffeine were discussed. Behavioral modifications, decreasing fluid intake three hours prior to bedtime, and avoiding bladder irritants such as caffeine, alcohol, spicy and acidic foods discussed.
+
+2. Elevated PSA - Monitoring: Current PSA 3.9, slightly elevated from baseline in the low 3s. Will obtain 4K score today to assess risk for prostate cancer. If 4K score shows elevated risk, will consider prostate MRI. If 4K score is reassuring, will continue monitoring. Patient previously had 4K score in 2022. Will repeat PSA in 6 months. I had a discussion with the patient about the significance of elevated PSA. Most common etiologies are BPH, inflammation, infection, or an underlying tumor. The only definitive way to distinguish between these diagnoses is with a prostate biopsy. I have discussed the risks including but not limited to UTI, sepsis, hematuria, hematochezia, hematospermia, and urinary retention.
+
+3. Overactive Bladder (OAB) - Stable: Patient not currently taking Trospium but symptoms appear controlled with current regimen. Treatment options for Overactive Bladder Syndrome (OAB) were discussed. Behavior/lifestyle modifications including modifying voiding habits (timed/delayed voiding, fluid management, pelvic floor exercises, weight loss, and avoiding bladder irritants such as alcoholic beverages, carbonated beverages, spicy/acidic food, chocolate, citrus fruits, apples, coffee/tea, cranberry products, dairy, sugar/sugar substitutes, and vinegar. Treatment with antimuscarinics and beta-3 agonists were discussed. Side effects including constipation, visual changes, dry mouth, hypertension, and changes in memory were explained. Counseled that medications work best when used in combination with behavior/lifestyle modifications. 3rd line treatment options including intravesical Botox, PTNS, and Sacral neuromodulation also discussed."
+"CHIEF COMPLAINT:
+Evaluation and Management of: hypertension
+
+INTERVAL HISTORY:
+Patient presents for follow-up of hypertension. She reports having received the old shingles vaccine in 2015 and is inquiring about getting the new one. She has a colonoscopy consultation scheduled for 08/04/25. Patient reports having a pacemaker. She had a mammogram in January which was clear. Patient has been seeing an eye doctor and reports no changes with her glasses. She uses hearing aids which she reports are helping. Patient mentions having some swelling in one leg that is more pronounced than the other, though she can still walk and move around. She requires antibiotic prophylaxis before dental procedures and has an upcoming dental appointment on Thursday. Recent lab work shows cholesterol levels are good with LDL at 73, and liver and kidney function tests are normal. Blood count was normal.
+
+PAST MEDICAL HISTORY:
+Hypertension
+Atrial fibrillation requiring pacemaker
+Venous insufficiency
+
+PAST SURGICAL HISTORY:
+Pacemaker placement
+Bilateral hip replacements
+
+ALLERGIES:
+No known allergies
+No known drug allergies
+
+MEDICATIONS:
+Atorvastatin 40 mg daily
+Telmisartan-hydrochlorothiazide
+Metoprolol 25 mg
+Eliquis 5 mg
+Amoxicillin (for dental prophylaxis)
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+Vitals:
+Blood pressure: 124/80
+
+OBJECTIVE:
+Physical Examination:
+General Appearance: no acute distress
+Skin: intact, no rash or lesions
+Head: normocephalic, atraumatic
+Eyes: sclera non-icteric
+Neck: supple
+Respiratory: lungs clear to auscultation
+Cardiovascular: normal S1 and S2
+Gastrointestinal: abdomen soft, non-tender, non distended
+Musculoskeletal: normal ROM b/l upper and lower extremities
+Extremities: mild swelling noted in one leg
+Neurologic: alert and oriented, no gross focal neurologic deficits
+Psychiatric: appropriate mood and affect
+
+IMPRESSION/PLAN:
+Hypertension
+-- Blood pressure well controlled today at 124/80
+-- Continue current medications
+-- Will monitor at follow-up visits
+
+Venous insufficiency
+-- Patient reports one leg is more swollen than the other
+-- No significant concerns at this time
+-- Patient able to ambulate without difficulty
+
+S/P TAVR
+-- Doing well
+-- Continues to follow with cardiologist
+
+Atrial fibrillation
+-- On anticoagulation with Eliquis 5 mg
+-- Managed with pacemaker
+-- Continue current management
+
+Hyperlipidemia
+-- LDL cholesterol well controlled at 73
+-- Continue atorvastatin 40 mg daily
+
+Preventive care
+-- Mammogram completed in January with normal results
+-- Dental care ongoing with antibiotic prophylaxis
+-- Colonoscopy consultation scheduled for 08/04/25
+-- Recommended new shingles vaccine after colonoscopy is completed
+
+Status: Stable
+
+Follow up: 3 months
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software.","CHIEF COMPLAINT:
+Evaluation and Management of: hypertension
+
+INTERVAL HISTORY:
+Patient presents for follow-up of hypertension. She reports having received the old shingles vaccine in 2015 and is inquiring about getting the new one. She has a colonoscopy consultation scheduled for 08/04/25. Patient reports having a pacemaker. She had a mammogram in January which was clear. Patient has been seeing an eye doctor and reports no changes with her glasses. She uses hearing aids which she reports are helping. Patient mentions having some swelling in one leg that is more pronounced than the other, though she can still walk and move around. She requires antibiotic prophylaxis before dental procedures and has an upcoming dental appointment on Thursday. Recent lab work shows cholesterol levels are good with LDL at 73, and liver and kidney function tests are normal. Blood count was normal.
+
+PAST MEDICAL HISTORY:
+Hypertension
+Atrial fibrillation requiring pacemaker
+Venous insufficiency
+
+PAST SURGICAL HISTORY:
+Pacemaker placement
+Bilateral hip replacements
+
+ALLERGIES:
+No known allergies
+No known drug allergies
+
+MEDICATIONS:
+Atorvastatin 40 mg daily
+Telmisartan-hydrochlorothiazide
+Metoprolol 25 mg
+Eliquis 5 mg
+Amoxicillin (for dental prophylaxis)
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+Vitals:
+Blood pressure: 124/80
+
+OBJECTIVE:
+Physical Examination:
+General Appearance: no acute distress
+Skin: intact, no rash or lesions
+Head: normocephalic, atraumatic
+Eyes: sclera non-icteric
+Neck: supple
+Respiratory: lungs clear to auscultation
+Cardiovascular: normal S1 and S2
+Gastrointestinal: abdomen soft, non-tender, non distended
+Musculoskeletal: normal ROM b/l upper and lower extremities
+Extremities: mild swelling noted in one leg
+Neurologic: alert and oriented, no gross focal neurologic deficits
+Psychiatric: appropriate mood and affect
+
+IMPRESSION/PLAN:
+Hypertension
+-- Blood pressure well controlled today at 124/80
+-- Continue current medications
+-- Will monitor at follow-up visits
+
+Venous insufficiency
+-- Patient reports one leg is more swollen than the other
+-- No significant concerns at this time
+-- Patient able to ambulate without difficulty
+
+S/P TAVR
+-- Doing well
+-- Continues to follow with cardiologist
+
+Atrial fibrillation
+-- On anticoagulation with Eliquis 5 mg
+-- Managed with pacemaker
+-- Continue current management
+
+Hyperlipidemia
+-- LDL cholesterol well controlled at 73
+-- Continue atorvastatin 40 mg daily
+
+Preventive care
+-- Mammogram completed in January with normal results
+-- Dental care ongoing with antibiotic prophylaxis
+-- Colonoscopy consultation scheduled for 08/04/25
+-- Recommended new shingles vaccine after colonoscopy is completed
+
+Status: Stable
+
+Follow up: 3 months
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software.","CHIEF COMPLAINT:
+Evaluation and Management of: hypertension
+
+INTERVAL HISTORY:
+Patient presents for follow-up of hypertension. She reports having received the old shingles vaccine in 2015 and is inquiring about getting the new one. She has a colonoscopy consultation scheduled for 08/04/25. Patient reports having a pacemaker. She had a mammogram in January which was clear. Patient has been seeing an eye doctor and reports no changes with her glasses. She uses hearing aids which she reports are helping. Patient mentions having some swelling in one leg that is more pronounced than the other, though she can still walk and move around. She requires antibiotic prophylaxis before dental procedures and has an upcoming dental appointment on Thursday. Recent lab work shows cholesterol levels are good with LDL at 73, and liver and kidney function tests are normal. Blood count was normal.
+
+PAST MEDICAL HISTORY:
+Hypertension
+Atrial fibrillation requiring pacemaker
+Venous insufficiency
+
+PAST SURGICAL HISTORY:
+Pacemaker placement
+Bilateral hip replacements
+
+ALLERGIES:
+No known allergies
+No known drug allergies
+
+MEDICATIONS:
+Atorvastatin 40 mg daily
+Telmisartan-hydrochlorothiazide
+Metoprolol 25 mg
+Eliquis 5 mg
+Amoxicillin (for dental prophylaxis)
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+Vitals:
+Blood pressure: 124/80
+
+OBJECTIVE:
+Physical Examination:
+General Appearance: no acute distress
+Skin: intact, no rash or lesions
+Head: normocephalic, atraumatic
+Eyes: sclera non-icteric
+Neck: supple
+Respiratory: lungs clear to auscultation
+Cardiovascular: normal S1 and S2, 2/6 systolic murmur
+Gastrointestinal: abdomen soft, non-tender, non distended
+Musculoskeletal: normal ROM b/l upper and lower extremities
+Extremities: mild swelling noted in one leg, distal pulses intact
+Neurologic: alert and oriented, no gross focal neurologic deficits
+Psychiatric: appropriate mood and affect
+Lymphatic:
+
+IMPRESSION/PLAN:
+Hypertension
+-- Blood pressure well controlled today at 124/80
+-- Continue current medications
+-- Will monitor at follow-up visits
+
+Venous insufficiency
+-- Patient reports one leg is more swollen than the other
+-- No significant concerns at this time
+-- Patient able to ambulate without difficulty
+
+S/P TAVR
+-- Doing well
+-- Continues to follow with cardiologist
+
+Atrial fibrillation
+-- On anticoagulation with Eliquis 5 mg
+-- Managed with pacemaker
+-- Continue current management
+
+Hyperlipidemia
+-- LDL cholesterol well controlled at 73
+-- Continue atorvastatin 40 mg daily
+
+Preventive care
+-- Mammogram completed in January with normal results
+-- Dental care ongoing with antibiotic prophylaxis
+-- Colonoscopy consultation scheduled for 08/04/25
+-- Recommended new shingles vaccine after colonoscopy is completed
+
+Status: Stable
+
+Follow up: 3 months
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software."
+"DATE OF VISIT: 6/27/2025
+PATIENT: Cabrera, Tairy
+REFERRING PROVIDER: 
+
+CHIEF COMPLAINT: Evaluation and management of an alleged diagnosis of systemic lupus erythematosus (SLE).
+
+HISTORY OF PRESENT ILLNESS:
+Tairy Cabrera, a 37-year-old female, presents to establish care with a allege diagnosed of systemic lupus erythematosus (SLE) diagnosed in February 2024. She has been on hydroxychloroquine since May 2024. She states she was seen by a rheumatologist in Jersey City who recently retired in December. At that point in time according to her husband it was not completely clear if she truly had lupus. As per husband was translating for her while question was if she had a combination of lupus and possibly rheumatoid arthritis even though all the markers specifically associated with those 2 diseases were negative and she had a mildly positive ANA. She was placed on hydroxychloroquine and according to the patient she stated she felt well on it. Eventually she had become pregnant and she discontinued the medication. Unfortunately she lost her pregnancy and since then she restarted the medication but it seems to not be effective. She reports symptoms including palpitations, dizziness, numbness in hands and feet, generalized pain, sleep disruptions/poor, and a history of Raynaud's phenomenon. She reports multiple ER visits due to palpitations and severe fatigue. Peripheral blood tests in January 2024 revealed a positive ANA (1:80), WBC count of 4.5, hemoglobin 14.8 g/dL, hematocrit 44.4%, and platelet count 312. Absolute lymphocyte count was 2223 within normal limits. Urinalysis showed no protein or blood presence. The patient reports being treated for anxiety and is on Nadolol and Fluoxetine but states persistent symptoms, particularly pain and fatigue. Notably, she experienced the loss of a child due to pregnancy complications in September 2024. There is a noted familial history of similar symptoms in a cousin. Recent evaluations raise the question of fibromyalgia, supported by symptoms such as widespread musculoskeletal pain, sleep disturbances, and cognitive disturbances (brain fog), exacerbated by stress, diffuse discomfort when her child hugs her.In addition when she was young she was very flexible and she can currently touch her thumb to her forearms bilaterally. She has mild hyperextension's of her elbow. She can still touch the floor flat with her hands she has easy bruising and she has a history of heavy painful periods. She also has some dizziness from lying down to sitting up position or sitting up to standing she also has palpitations and anxiety. In addition she has diarrhea alternating with constipation.
+
+INTERVAL HISTORY:
+6/27/25: Patient reports she has been walking more for exercise. She has not tried aqua therapy yet despite having the information. Patient reports having an eye infection for several weeks that has not resolved despite antibiotic eye drops prescribed at an emergency room for conjunctivitis. She reports eye dryness and mouth dryness with persistent cough. The right eye appears red and is itchy, particularly bothersome at night. Patient denies any vision changes. No other new medical issues reported. Patient has not tried magnesium supplementation for muscle relaxation.
+
+MEDICATIONS:
+Inside         Drug         Script Date         Qty         Rfls         Instructions                               
+FLUOXETINE HCL 20 MG CAPSULE         2/18/2025         15         0                                         
+HYDROXYCHLOROQUINE 200 MG TAB         1/22/2025         60         0         TAKE 1 TABLET BY MOUTH IN THE MORNING AND IN THE EVENING                               
+NADOLOL 20 MG TABLET         3/8/2025         30         0         TAKE ONE TABLET (20 MG) DAILY BY MOUTH INDICATIONS: HIGH BLOOD PRESSURE                               
+Vitamin D3 50 mcg (2,000 unit) tablet         4/11/2025                   0
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+OBJECTIVE:
+Physical Examination:
+Gen: Well developed well nourished. HEENT: PERRLA, EOMI, sclera erythematous, more on the left than right eye. Chest: Clear to auscultation bilaterally. Heart: Normal S1 S2, regular rate and rhythm. Ext: No edema. Skin: No skin rash. Musculoskeletal: No swelling noted in any of the joints in both the upper or lower extremities. Fibromyalgia trigger points 18 out of 18.
+
+ASSESSMENT:
+Positive ANA
+Patient has a low positive ANA (1:80). All other rheumatological markers associated with a positive ANA came back negative. Protein/creatinine ratio was within normal limits. Urinalysis on repeat was negative. Based on comprehensive testing, as of now, there is insufficient evidence to support a definitive SLE diagnosis.
+
+Fibromyalgia
+Patient continues to have symptoms consistent with fibromyalgia. We have discontinued hydroxychloroquine, and patient has not noticed any difference in terms of being on the medication and being off the medication. Patient is reiterated treatment options for fibromyalgia including aqua therapy, Tai Chi, stress reduction techniques. Discussed again as previously noted in my notes discussed the medications for fibromyalgia (antidepressants, anti-anxiety medications, muscle relaxers, nerve medications) which can be given by her PCP. Emphasized importance of controlling anxiety as key to managing fibromyalgia symptoms.
+
+Sclera erythematous
+Unclear of etiology. Patient was given medications to treat, as she was told it was conjunctivitis by the ER, but she has not noticed any improvement. The patient has no issues with her vision. She states her vision is clear, but her right eye is more erythematous than her left. I will give her a referral to ophthalmology to have her eyes be evaluated.
+
+PLAN:
+Discontinue hydroxychloroquine as there was no difference of being on it or off of it.
+I have requested that patient call the aqua therapy facility as she was given the information on her last visit. She states she will.
+Discussed use of multivitamin and magnesium supplementation, which patient states she will try.
+Emphasize the importance of continuing anxiety management with her primary care physician.
+Return to clinic in six weeks.
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software.","DATE OF VISIT: 6/27/2025
+PATIENT: Cabrera, Tairy
+REFERRING PROVIDER: 
+
+CHIEF COMPLAINT: Evaluation and management of an alleged diagnosis of systemic lupus erythematosus (SLE).
+
+HISTORY OF PRESENT ILLNESS:
+Tairy Cabrera, a 37-year-old female, presents to establish care with a allege diagnosed of systemic lupus erythematosus (SLE) diagnosed in February 2024. She has been on hydroxychloroquine since May 2024. She states she was seen by a rheumatologist in Jersey City who recently retired in December. At that point in time according to her husband it was not completely clear if she truly had lupus. As per husband was translating for her while question was if she had a combination of lupus and possibly rheumatoid arthritis even though all the markers specifically associated with those 2 diseases were negative and she had a mildly positive ANA. She was placed on hydroxychloroquine and according to the patient she stated she felt well on it. Eventually she had become pregnant and she discontinued the medication. Unfortunately she lost her pregnancy and since then she restarted the medication but it seems to not be effective. She reports symptoms including palpitations, dizziness, numbness in hands and feet, generalized pain, sleep disruptions/poor, and a history of Raynaud's phenomenon. She reports multiple ER visits due to palpitations and severe fatigue. Peripheral blood tests in January 2024 revealed a positive ANA (1:80), WBC count of 4.5, hemoglobin 14.8 g/dL, hematocrit 44.4%, and platelet count 312. Absolute lymphocyte count was 2223 within normal limits. Urinalysis showed no protein or blood presence. The patient reports being treated for anxiety and is on Nadolol and Fluoxetine but states persistent symptoms, particularly pain and fatigue. Notably, she experienced the loss of a child due to pregnancy complications in September 2024. There is a noted familial history of similar symptoms in a cousin. Recent evaluations raise the question of fibromyalgia, supported by symptoms such as widespread musculoskeletal pain, sleep disturbances, and cognitive disturbances (brain fog), exacerbated by stress, diffuse discomfort when her child hugs her.In addition when she was young she was very flexible and she can currently touch her thumb to her forearms bilaterally. She has mild hyperextension's of her elbow. She can still touch the floor flat with her hands she has easy bruising and she has a history of heavy painful periods. She also has some dizziness from lying down to sitting up position or sitting up to standing she also has palpitations and anxiety. In addition she has diarrhea alternating with constipation.
+
+INTERVAL HISTORY:
+6/27/25: Patient reports she has been walking more for exercise. She has not tried aqua therapy yet despite having the information. Patient reports having an eye infection for several weeks that has not resolved despite antibiotic eye drops prescribed at an emergency room for conjunctivitis. She reports eye dryness and mouth dryness with persistent cough. The right eye appears red and is itchy, particularly bothersome at night. Patient denies any vision changes. No other new medical issues reported. Patient has not tried magnesium supplementation for muscle relaxation.
+
+MEDICATIONS:
+Inside         Drug         Script Date         Qty         Rfls         Instructions                               
+FLUOXETINE HCL 20 MG CAPSULE         2/18/2025         15         0                                         
+HYDROXYCHLOROQUINE 200 MG TAB         1/22/2025         60         0         TAKE 1 TABLET BY MOUTH IN THE MORNING AND IN THE EVENING                               
+NADOLOL 20 MG TABLET         3/8/2025         30         0         TAKE ONE TABLET (20 MG) DAILY BY MOUTH INDICATIONS: HIGH BLOOD PRESSURE                               
+Vitamin D3 50 mcg (2,000 unit) tablet         4/11/2025                   0
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+OBJECTIVE:
+Physical Examination:
+Gen: Well developed well nourished. HEENT: PERRLA, EOMI, sclera erythematous, more on the left than right eye. Chest: Clear to auscultation bilaterally. Heart: Normal S1 S2, regular rate and rhythm. Ext: No edema. Skin: No skin rash. Musculoskeletal: No swelling noted in any of the joints in both the upper or lower extremities. Fibromyalgia trigger points 18 out of 18.
+
+ASSESSMENT:
+Positive ANA
+Patient has a low positive ANA (1:80). All other rheumatological markers associated with a positive ANA came back negative. Protein/creatinine ratio was within normal limits. Urinalysis on repeat was negative. Based on comprehensive testing, as of now, there is insufficient evidence to support a definitive SLE diagnosis.
+
+Fibromyalgia
+Patient continues to have symptoms consistent with fibromyalgia. We have discontinued hydroxychloroquine, and patient has not noticed any difference in terms of being on the medication and being off the medication. Patient is reiterated treatment options for fibromyalgia including aqua therapy, Tai Chi, stress reduction techniques. Discussed again as previously noted in my notes discussed the medications for fibromyalgia (antidepressants, anti-anxiety medications, muscle relaxers, nerve medications) which can be given by her PCP. Emphasized importance of controlling anxiety as key to managing fibromyalgia symptoms.
+
+Sclera erythematous
+Unclear of etiology. Patient was given medications to treat, as she was told it was conjunctivitis by the ER, but she has not noticed any improvement. The patient has no issues with her vision. She states her vision is clear, but her right eye is more erythematous than her left. I will give her a referral to ophthalmology to have her eyes be evaluated.
+
+PLAN:
+Discontinue hydroxychloroquine as there was no difference of being on it or off of it.
+I have requested that patient call the aqua therapy facility as she was given the information on her last visit. She states she will.
+Discussed use of multivitamin and magnesium supplementation, which patient states she will try.
+Emphasize the importance of continuing anxiety management with her primary care physician.
+Return to clinic in six weeks.
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software.","DATE OF VISIT: 6/27/2025
+PATIENT: Cabrera, Tairy
+REFERRING PROVIDER: 
+
+CHIEF COMPLAINT: Evaluation and management of an alleged diagnosis of systemic lupus erythematosus (SLE).
+
+HISTORY OF PRESENT ILLNESS:
+Tairy Cabrera, a 37-year-old female, presents to establish care with a allege diagnosed of systemic lupus erythematosus (SLE) diagnosed in February 2024. She has been on hydroxychloroquine since May 2024. She states she was seen by a rheumatologist in Jersey City who recently retired in December. At that point in time according to her husband it was not completely clear if she truly had lupus. As per husband was translating for her while question was if she had a combination of lupus and possibly rheumatoid arthritis even though all the markers specifically associated with those 2 diseases were negative and she had a mildly positive ANA. She was placed on hydroxychloroquine and according to the patient she stated she felt well on it. Eventually she had become pregnant and she discontinued the medication. Unfortunately she lost her pregnancy and since then she restarted the medication but it seems to not be effective. She reports symptoms including palpitations, dizziness, numbness in hands and feet, generalized pain, sleep disruptions/poor, and a history of Raynaud's phenomenon. She reports multiple ER visits due to palpitations and severe fatigue. Peripheral blood tests in January 2024 revealed a positive ANA (1:80), WBC count of 4.5, hemoglobin 14.8 g/dL, hematocrit 44.4%, and platelet count 312. Absolute lymphocyte count was 2223 within normal limits. Urinalysis showed no protein or blood presence. The patient reports being treated for anxiety and is on Nadolol and Fluoxetine but states persistent symptoms, particularly pain and fatigue. Notably, she experienced the loss of a child due to pregnancy complications in September 2024. There is a noted familial history of similar symptoms in a cousin. Recent evaluations raise the question of fibromyalgia, supported by symptoms such as widespread musculoskeletal pain, sleep disturbances, and cognitive disturbances (brain fog), exacerbated by stress, diffuse discomfort when her child hugs her. In addition when she was young she was very flexible and she can currently touch her thumb to her forearms bilaterally. She has mild hyperextension's of her elbow. She can still touch the floor flat with her hands she has easy bruising and she has a history of heavy painful periods. She also has some dizziness from lying down to sitting up position or sitting up to standing she also has palpitations and anxiety. In addition she has diarrhea alternating with constipation.
+
+INTERVAL HISTORY:
+6/27/25: Patient reports she has been walking more for exercise. She has not tried aqua therapy yet despite having the information. Patient reports having an eye infection for 2 weeks that has not resolved despite antibiotic eye drops prescribed at an emergency room for conjunctivitis. She reports eye dryness with persistent cough. The right eye appears red and is itchy, particularly bothersome at night. Patient denies any vision changes.  She has not seen an ophthalmologist.  She does not have any allergies that she knows of.  No other new medical issues reported. Patient has not tried magnesium supplementation for muscle relaxation.  Since stopping hydroxychloroquine she has seen no difference in terms of her fibromyalgia symptoms.
+
+MEDICATIONS:
+Inside         Drug         Script Date         Qty         Rfls         Instructions                               
+FLUOXETINE HCL 20 MG CAPSULE         2/18/2025         15         0                                         
+HYDROXYCHLOROQUINE 200 MG TAB         1/22/2025         60         0         TAKE 1 TABLET BY MOUTH IN THE MORNING AND IN THE EVENING                               
+NADOLOL 20 MG TABLET         3/8/2025         30         0         TAKE ONE TABLET (20 MG) DAILY BY MOUTH INDICATIONS: HIGH BLOOD PRESSURE                               
+Vitamin D3 50 mcg (2,000 unit) tablet         4/11/2025                   0
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+OBJECTIVE:
+Physical Examination:
+Gen: Well developed well nourished. 
+HEENT: PERRLA, EOMI, sclera erythematous, more on the left than right eye. 
+Chest: Clear to auscultation bilaterally. 
+Heart: Normal S1 S2, regular rate and rhythm. 
+Ext: No edema. 
+Skin: No skin rash. 
+Musculoskeletal: No swelling noted in any of the joints in both the upper or lower extremities. Fibromyalgia trigger points 18 out of 18.
+
+ASSESSMENT:
+Positive ANA
+Patient has a low positive ANA (1:80). All other rheumatological markers associated with a positive ANA came back negative. Protein/creatinine ratio was within normal limits. Urinalysis on repeat was negative. Based on comprehensive testing, as of now, there is insufficient evidence to support a SLE diagnosis.
+
+Fibromyalgia
+Patient continues to have symptoms consistent with fibromyalgia. We have discontinued hydroxychloroquine, and patient has not noticed any difference in terms of being on the medication and being off the medication. Patient is reiterated treatment options for fibromyalgia including aqua therapy, Tai Chi, stress reduction techniques. Discussed again as previously noted in my notes discussed the medications for fibromyalgia (antidepressants, anti-anxiety medications, muscle relaxers, nerve medications) which can be given by her PCP. Emphasized importance of controlling anxiety as key to managing fibromyalgia symptoms.
+
+Sclera erythematous
+Unclear of etiology. Patient was given medications to treat, as she was told it was conjunctivitis by the ER, but she has not noticed any improvement. The patient has no issues with her vision. She states her vision is clear, but her right eye is more erythematous than her left. I will give her a referral to ophthalmology to have her eyes be evaluated.
+
+PLAN:
+Discontinue hydroxychloroquine as there was no difference of being on it or off of it.
+I have requested that patient call the aqua therapy facility as she was given the information on her last visit. She states she will.
+Discussed use of multivitamin and magnesium supplementation, which patient states she will try.
+Emphasize the importance of continuing anxiety management with her primary care physician.
+
+Return to clinic in six weeks.
+"
+"CHIEF COMPLAINT:
+Evaluation and Management of triglyceride levels. Type 2 diabetes
+
+INTERVAL HISTORY:
+Patient reports he went off his diet recently and acknowledges this has affected his blood sugar control. He recently had cataract surgery on his right eye last week using the laser method. He states it went well but still feels like there's something in his eye, though was told this sensation would resolve over the six-week healing period. Patient reports that weight loss medication has not been effective, stating he hasn't lost ""even a pound."" He also reports that his erectile dysfunction medication is not working. Patient is walking regularly for exercise and has encouraged his partner Joni to join him. Recent lab results show cholesterol at 131, LDL at 58, blood sugar at 130, good kidney function, and A1c at 7.2, which is higher than previous readings. Patient recently had pre-surgical cardiac clearance with EKG for his cataract procedure. He has not yet completed his colonoscopy but plans to schedule it.
+
+PAST MEDICAL HISTORY:
+Type 2 diabetes mellitus with other circulatory complications
+Simple chronic bronchitis
+Peripheral vascular disease
+Essential hypertension
+Current mild episode of major depressive disorder without prior episode
+Cerebrovascular accident (CVA) due to embolism of left carotid artery
+Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris
+Combined arterial insufficiency and corporo-venous occlusive erectile dysfunction
+Cataracts
+
+PAST SURGICAL HISTORY:
+TONSILLECTOMY
+BACK SURGERY — 2003/2015
+SPINE SURGERY
+KIDNEY STONE SURGERY
+CAROTID ARTERY ANGIOPLASTY
+Right eye cataract surgery — 06/2025
+
+ALLERGIES:
+No known allergies
+No known drug allergies
+
+MEDICATIONS:
+Sildenafil (VIAGRA) 100 mg tablet; Take 1 tablet (100 mg total) by mouth daily as needed for erectile dysfunction.
+Weight loss medication (specific name not mentioned)
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+Vitals:
+BMI: 28.8
+
+OBJECTIVE:
+Physical Examination:
+General Appearance: no acute distress
+Skin: intact, no rash or lesions
+Head: normocephalic, atraumatic
+Eyes: sclera non-icteric, recent right cataract surgery
+Neck: supple
+Respiratory: lungs clear to auscultation
+Cardiovascular: normal S1 and S2
+Gastrointestinal: abdomen soft, non-tender, non distended
+Musculoskeletal: normal ROM b/l upper and lower extremities
+Extremities: no edema noted
+Neurologic: alert and oriented, no gross focal neurologic deficits
+Psychiatric: appropriate mood and affect
+
+IMPRESSION/PLAN:
+Type 2 diabetes mellitus with other circulatory complications (HCC)
+-- Clinical course shows slight worsening with A1c at 7.2, higher than previous readings. Patient acknowledges dietary non-compliance. No medication changes recommended at this time. Patient encouraged to return to previous diet regimen. Will reassess in 3-4 months.
+
+Simple chronic bronchitis (HCC)
+-- Clinical course has improved. Continues to do well without medication. Patient counseled to continue avoiding tobacco exposure. Recheck in 3 months.
+
+Peripheral vascular disease (HCC)
+-- Clinical course has been stable. I have reviewed relevant test results. Current medication regimen is efficacious. I have reviewed records relevant to this chronic condition. Continue current medication(s).
+
+Essential hypertension
+-- Hypertension is improving with treatment. Continue current treatment regimen. Dietary sodium restriction. Weight loss. Regular aerobic exercise. Continue current medications. Blood pressure will be reassessed at the next regular appointment.
+
+Current mild episode of major depressive disorder without prior episode (HCC)
+-- Psychological condition is improving with treatment. Continue current treatment regimen. Regular aerobic exercise. Psychological condition will be reassessed at the next regular appointment.
+
+Cerebrovascular accident (CVA) due to embolism of left carotid artery (HCC)
+-- Clinical course has been stable. Current medication regimen is efficacious. I have discussed and counseled patient on the following: Continue current medication. Continue current medication(s).
+
+Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris (HCC)
+-- Coronary artery disease is stable. Patient had recent cardiac clearance with EKG for cataract surgery. Continue current treatment regimen. Dietary sodium restriction. Weight loss. Regular aerobic exercise. Continue current medications. Cardiac status will be reassessed in 3 months.
+
+Combined arterial insufficiency and corporo-venous occlusive erectile dysfunction
+-- Patient reports current medication (sildenafil) is ineffective. Discussed referral to urology for further evaluation and management. Prescription for sildenafil renewed today.
+
+Hyperlipidemia
+-- Well-controlled with current therapy. Recent labs show cholesterol at 131 and LDL at 58. Continue current management.
+
+Cataracts
+-- Patient underwent right eye cataract surgery last week using laser method. Reports normal post-operative symptoms. Advised that sensation of something in the eye should resolve during six-week healing period.
+
+Preventive care
+-- Patient is up to date on vaccinations. Colonoscopy is due; patient plans to schedule. Weight management discussed; current BMI 28.8. Patient reports weight loss medication has been ineffective.
+
+Status: Stable
+
+Follow up: 3 months
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software.","CHIEF COMPLAINT:
+Evaluation and Management of triglyceride levels. Type 2 diabetes
+
+INTERVAL HISTORY:
+Patient reports he went off his diet recently and acknowledges this has affected his blood sugar control. He recently had cataract surgery on his right eye last week using the laser method. He states it went well but still feels like there's something in his eye, though was told this sensation would resolve over the six-week healing period. Patient reports that weight loss medication has not been effective, stating he hasn't lost ""even a pound."" He also reports that his erectile dysfunction medication is not working. Patient is walking regularly for exercise and has encouraged his partner Joni to join him. Recent lab results show cholesterol at 131, LDL at 58, blood sugar at 130, good kidney function, and A1c at 7.2, which is higher than previous readings. Patient recently had pre-surgical cardiac clearance with EKG for his cataract procedure. He has not yet completed his colonoscopy but plans to schedule it.
+
+PAST MEDICAL HISTORY:
+Type 2 diabetes mellitus with other circulatory complications
+Simple chronic bronchitis
+Peripheral vascular disease
+Essential hypertension
+Current mild episode of major depressive disorder without prior episode
+Cerebrovascular accident (CVA) due to embolism of left carotid artery
+Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris
+Combined arterial insufficiency and corporo-venous occlusive erectile dysfunction
+Cataracts
+
+PAST SURGICAL HISTORY:
+TONSILLECTOMY
+BACK SURGERY — 2003/2015
+SPINE SURGERY
+KIDNEY STONE SURGERY
+CAROTID ARTERY ANGIOPLASTY
+Right eye cataract surgery — 06/2025
+
+ALLERGIES:
+No known allergies
+No known drug allergies
+
+MEDICATIONS:
+Sildenafil (VIAGRA) 100 mg tablet; Take 1 tablet (100 mg total) by mouth daily as needed for erectile dysfunction.
+Weight loss medication (specific name not mentioned)
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+Vitals:
+BMI: 28.8
+
+OBJECTIVE:
+Physical Examination:
+General Appearance: no acute distress
+Skin: intact, no rash or lesions
+Head: normocephalic, atraumatic
+Eyes: sclera non-icteric, recent right cataract surgery
+Neck: supple
+Respiratory: lungs clear to auscultation
+Cardiovascular: normal S1 and S2
+Gastrointestinal: abdomen soft, non-tender, non distended
+Musculoskeletal: normal ROM b/l upper and lower extremities
+Extremities: no edema noted
+Neurologic: alert and oriented, no gross focal neurologic deficits
+Psychiatric: appropriate mood and affect
+
+IMPRESSION/PLAN:
+Type 2 diabetes mellitus with other circulatory complications (HCC)
+-- Clinical course shows slight worsening with A1c at 7.2, higher than previous readings. Patient acknowledges dietary non-compliance. No medication changes recommended at this time. Patient encouraged to return to previous diet regimen. Will reassess in 3-4 months.
+
+Simple chronic bronchitis (HCC)
+-- Clinical course has improved. Continues to do well without medication. Patient counseled to continue avoiding tobacco exposure. Recheck in 3 months.
+
+Peripheral vascular disease (HCC)
+-- Clinical course has been stable. I have reviewed relevant test results. Current medication regimen is efficacious. I have reviewed records relevant to this chronic condition. Continue current medication(s).
+
+Essential hypertension
+-- Hypertension is improving with treatment. Continue current treatment regimen. Dietary sodium restriction. Weight loss. Regular aerobic exercise. Continue current medications. Blood pressure will be reassessed at the next regular appointment.
+
+Current mild episode of major depressive disorder without prior episode (HCC)
+-- Psychological condition is improving with treatment. Continue current treatment regimen. Regular aerobic exercise. Psychological condition will be reassessed at the next regular appointment.
+
+Cerebrovascular accident (CVA) due to embolism of left carotid artery (HCC)
+-- Clinical course has been stable. Current medication regimen is efficacious. I have discussed and counseled patient on the following: Continue current medication. Continue current medication(s).
+
+Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris (HCC)
+-- Coronary artery disease is stable. Patient had recent cardiac clearance with EKG for cataract surgery. Continue current treatment regimen. Dietary sodium restriction. Weight loss. Regular aerobic exercise. Continue current medications. Cardiac status will be reassessed in 3 months.
+
+Combined arterial insufficiency and corporo-venous occlusive erectile dysfunction
+-- Patient reports current medication (sildenafil) is ineffective. Discussed referral to urology for further evaluation and management. Prescription for sildenafil renewed today.
+
+Hyperlipidemia
+-- Well-controlled with current therapy. Recent labs show cholesterol at 131 and LDL at 58. Continue current management.
+
+Cataracts
+-- Patient underwent right eye cataract surgery last week using laser method. Reports normal post-operative symptoms. Advised that sensation of something in the eye should resolve during six-week healing period.
+
+Preventive care
+-- Patient is up to date on vaccinations. Colonoscopy is due; patient plans to schedule. Weight management discussed; current BMI 28.8. Patient reports weight loss medication has been ineffective.
+
+Status: Stable
+
+Follow up: 3 months
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software.","CHIEF COMPLAINT:
+Evaluation and Management of triglyceride levels. Type 2 diabetes
+
+INTERVAL HISTORY:
+Patient reports he went off his diet recently and acknowledges this has affected his blood sugar control. He recently had cataract surgery on his right eye last week using the laser method. He states it went well but still feels like there's something in his eye, though was told this sensation would resolve over the six-week healing period. Patient reports that weight loss medication has not been effective, stating he hasn't lost ""even a pound."" He also reports that his erectile dysfunction medication is not working. Patient is walking regularly for exercise and has encouraged his wife to join him. Recent lab results show cholesterol at 131, LDL at 58, blood sugar at 130, good kidney function, and A1c at 7.2, which is higher than previous readings. Patient recently had pre-surgical cardiac clearance with EKG for his cataract procedure. He has not yet completed his colonoscopy but plans to schedule it.
+
+PAST MEDICAL HISTORY:
+Type 2 diabetes mellitus with other circulatory complications
+Simple chronic bronchitis
+Peripheral vascular disease
+Essential hypertension
+Current mild episode of major depressive disorder without prior episode
+Cerebrovascular accident (CVA) due to embolism of left carotid artery
+Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris
+Combined arterial insufficiency and corporo-venous occlusive erectile dysfunction
+Cataracts
+
+PAST SURGICAL HISTORY:
+TONSILLECTOMY
+BACK SURGERY — 2003/2015
+SPINE SURGERY
+KIDNEY STONE SURGERY
+CAROTID ARTERY ANGIOPLASTY
+Right eye cataract surgery — 06/2025
+
+ALLERGIES:
+No known allergies
+No known drug allergies
+
+MEDICATIONS:
+Sildenafil (VIAGRA) 100 mg tablet; Take 1 tablet (100 mg total) by mouth daily as needed for erectile dysfunction.
+Metformin 1000 mg
+Jardiance 25 mg
+Lisinopril 10 mg
+Glimepiride 2 mg
+Atorvastatin 20 mg
+
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+Vitals:
+BMI: 28.8
+
+OBJECTIVE:
+Physical Examination:
+General Appearance: no acute distress
+Skin: intact, no rash or lesions
+Head: normocephalic, atraumatic
+Eyes: sclera non-icteric, recent right cataract surgery
+Neck: supple
+Respiratory: lungs clear to auscultation
+Cardiovascular: normal S1 and S2
+Extremities: no edema noted
+Neurologic: alert and oriented, no gross focal neurologic deficits
+Psychiatric: appropriate mood and affect
+
+IMPRESSION/PLAN:
+Type 2 diabetes mellitus with other circulatory complications (HCC)
+-- Clinical course shows slight worsening with A1c at 7.2, higher than previous readings. Patient acknowledges dietary non-compliance. No medication changes recommended at this time. Patient encouraged to return to previous diet regimen. Will reassess in 3-4 months.
+
+Simple chronic bronchitis (HCC)
+-- Clinical course has improved. Continues to do well without medication. Patient counseled to continue avoiding tobacco exposure. Recheck in 3 months.
+
+Peripheral vascular disease (HCC)
+-- Clinical course has been stable. I have reviewed relevant test results. Current medication regimen is efficacious. I have reviewed records relevant to this chronic condition. Continue current medication(s).
+
+Essential hypertension
+-- Hypertension is improving with treatment with lisinopril and metoprolol. Continue current treatment regimen. Dietary sodium restriction. Weight loss. Regular aerobic exercise. Continue current medications. Blood pressure will be reassessed at the next regular appointment.
+
+Current mild episode of major depressive disorder without prior episode (HCC)
+-- Psychological condition is improving with treatment with citalopram 20 mg. Continue current treatment regimen. Regular aerobic exercise. Psychological condition will be reassessed at the next regular appointment.
+
+Cerebrovascular accident (CVA) due to embolism of left carotid artery (HCC)
+-- Clinical course has been stable. Current medication regimen is efficacious. I have discussed and counseled patient on the following: Continue current medication. Continue current medication(s).
+
+Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris (HCC)
+-- Coronary artery disease is stable. Patient had recent cardiac clearance with EKG for cataract surgery. Continue current treatment regimen. Dietary sodium restriction. Weight loss. Regular aerobic exercise. Continue current medications. Cardiac status will be reassessed in 3 months.
+
+Combined arterial insufficiency and corporo-venous occlusive erectile dysfunction
+-- Patient reports current medication (sildenafil) is ineffective. Discussed referral to urology for further evaluation and management. Prescription for sildenafil renewed today.
+
+Hyperlipidemia
+-- Well-controlled with current therapy with atorvastatin. Recent labs show cholesterol at 131 and LDL at 58. Continue current management.
+
+Cataracts
+-- Patient underwent right eye cataract surgery last week using laser method. Reports normal post-operative symptoms. Advised that sensation of something in the eye should resolve during six-week healing period.
+
+Preventive care
+-- Patient is up to date on vaccinations. Colonoscopy is due; patient plans to schedule. Weight management discussed; current BMI 28.8. Patient reports weight loss medication has been ineffective.
+
+Status: Stable
+
+Follow up: 3 months
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software."
+"PRIMARY CARE PHYSICIAN: Dr. Brunst (previously); currently seen at Perlman Clinic in Santee
+
+CLINICAL SUMMARY:
+80M with multiple squamous cell and basal cell carcinomas requiring ongoing management.
+- Patient has history of numerous skin cancers over several years treated by Dr. Richards (dermatologist)
+- [Date unknown] Multiple prior surgical excisions with difficult healing and bleeding complications due to blood thinner use
+- [Date unknown] Began radiation therapy for some lesions with Dr. Shimuzu after experiencing severe pain during procedures
+- [03/2025] Multiple biopsies showing: chest (squamous cell), right forearm (basal cell), right radial dorsal hand (basal cell), right ulnar dorsal hand (squamous cell in situ), right thigh (squamous cell), left upper back (basal cell)
+- [Date unknown] Completed radiation to lesion on arm one month ago, still healing
+- [Date unknown] Previously evaluated by Dr. Bolin for possible immunotherapy but was not deemed appropriate at that time
+- [08/06/2025] Underwent blue light therapy, skin currently inflamed
+- [Recent] Five new biopsies, all reportedly squamous cell carcinomas
+- Current concerning lesion on left lower leg, ulcerated, present for approximately 6 months, not amenable to radiation per Dr. Shimuzu (who will not treat below elbow or knee)
+
+ADDITIONAL PAST MEDICAL/SURGICAL HISTORY INFORMATION:
+Past medical history:
+- Heart failure diagnosed 2017, has defibrillator
+- Diabetes mellitus diagnosed 2010
+- Diabetic neuropathy for approximately 20 years
+- Three hospitalizations since 2017 for cardiac issues
+- Fall with head injury two years ago, treated at Sharp
+
+Past surgical history:
+- Defibrillator placement 2017
+
+SOCIAL HISTORY:
+- Lives in Lakeside
+- Never smoker
+- Drinks two glasses of wine daily
+- Lives in a vineyard
+
+FAMILY HISTORY:
+- Parents died of ""weak hearts""
+- Brother (7 years younger) had heart transplant
+- No family history of cancer
+
+REVIEW OF SYSTEMS:
+12 point review of systems is reported as stable or normal unless noted in clinical summary or interval history.
+
+PHYSICAL EXAM:
+ECOG 0
+GEN - Well developed, well nourished man in no distress.
+HEENT - sclerae anicteric, mucous membranes moist, no oral lesions
+CV - regular rate and rhythm, no murmurs
+PULM - clear to auscultation bilaterally, no wheezes, rales, or rhonchi
+BREAST - 
+ABD - soft, non tender, non distended, active bowel sounds, no masses, no hepatosplenomegaly
+EXT - warm, well perfused, no edema. Ulcerated lesion on left lower leg. Multiple lesions on arms.
+LYMPH - no palpable adenopathy in the cervical, supraclavicular, axillary, or inguinal regions
+NEURO - no gross focal deficits
+SKIN - Facial skin inflamed from recent blue light therapy. Multiple seborrheic keratoses on back. Evidence of prior radiation treatment on right chest with hair loss and mild erythema.
+
+ASSESSMENT:
+Multiple squamous cell carcinomas and basal cell carcinomas
+Patient has extensive history of skin cancers treated with various modalities including surgical excision and radiation therapy. Currently has a concerning ulcerated squamous cell carcinoma on left lower leg that is not amenable to radiation per Dr. Shimuzu who will not treat below the knee. Patient has had difficulty with surgical excisions due to being on blood thinners for heart failure and experiencing excessive bleeding and poor healing. Recently started on Acitretin but has not begun taking it due to concerns about alcohol interaction. Recently underwent blue light therapy with significant skin inflammation. Discussed potential for immunotherapy if surgical options are exhausted, with expected 60-70% response rate for squamous cell carcinomas but slower response for basal cell carcinomas. Reviewed potential side effects including skin issues, fatigue, thyroid dysfunction, and rare but serious complications like pneumonitis.
+
+Heart failure
+Diagnosed in 2017, has defibrillator in place. Currently on Entresto and blood thinners. Followed by Dr. Chang at Scripps.
+
+Diabetes mellitus
+Diagnosed in 2010, complicated by neuropathy. Currently managed with Mounjaro and Farxiga (recommended by cardiologist).
+
+RECOMMENDATION/PLAN:
+Will contact Dr. Richards to discuss surgical options for the left lower leg lesion.
+If surgery is not an option, will proceed with immunotherapy which would be administered every 3 weeks for at least one year.
+Immunotherapy would likely address multiple lesions simultaneously.
+No anticipated interactions between immunotherapy and current cardiac medications.
+Patient should establish regular follow-up with primary care physician given multiple medical conditions.
+Patient to continue with current dermatologic care including blue light therapy and consideration of Acitretin.
+
+It is a pleasure to take care of Mr. Grimm.
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software.","PRIMARY CARE PHYSICIAN: Dr. Brunst (previously); currently seen at Perlman Clinic in Santee
+
+CLINICAL SUMMARY:
+80M with multiple squamous cell and basal cell carcinomas requiring ongoing management.
+- Patient has history of numerous skin cancers over several years treated by Dr. Richards (dermatologist)
+- [Date unknown] Multiple prior surgical excisions with difficult healing and bleeding complications due to blood thinner use
+- [Date unknown] Began radiation therapy for some lesions with Dr. Shimuzu after experiencing severe pain during procedures
+- [03/2025] Multiple biopsies showing: chest (squamous cell), right forearm (basal cell), right radial dorsal hand (basal cell), right ulnar dorsal hand (squamous cell in situ), right thigh (squamous cell), left upper back (basal cell)
+- [Date unknown] Completed radiation to lesion on arm one month ago, still healing
+- [Date unknown] Previously evaluated by Dr. Bolin for possible immunotherapy but was not deemed appropriate at that time
+- [08/06/2025] Underwent blue light therapy, skin currently inflamed
+- [Recent] Five new biopsies, all reportedly squamous cell carcinomas
+- Current concerning lesion on left lower leg, ulcerated, present for approximately 6 months, not amenable to radiation per Dr. Shimuzu (who will not treat below elbow or knee)
+
+ADDITIONAL PAST MEDICAL/SURGICAL HISTORY INFORMATION:
+Past medical history:
+- Heart failure diagnosed 2017, has defibrillator
+- Diabetes mellitus diagnosed 2010
+- Diabetic neuropathy for approximately 20 years
+- Three hospitalizations since 2017 for cardiac issues
+- Fall with head injury two years ago, treated at Sharp
+
+Past surgical history:
+- Defibrillator placement 2017
+
+SOCIAL HISTORY:
+- Lives in Lakeside
+- Never smoker
+- Drinks two glasses of wine daily
+- Lives in a vineyard
+
+FAMILY HISTORY:
+- Parents died of ""weak hearts""
+- Brother (7 years younger) had heart transplant
+- No family history of cancer
+
+REVIEW OF SYSTEMS:
+12 point review of systems is reported as stable or normal unless noted in clinical summary or interval history.
+
+PHYSICAL EXAM:
+ECOG 0
+GEN - Well developed, well nourished man in no distress.
+HEENT - sclerae anicteric, mucous membranes moist, no oral lesions
+CV - regular rate and rhythm, no murmurs
+PULM - clear to auscultation bilaterally, no wheezes, rales, or rhonchi
+BREAST - 
+ABD - soft, non tender, non distended, active bowel sounds, no masses, no hepatosplenomegaly
+EXT - warm, well perfused, no edema. Ulcerated lesion on left lower leg. Multiple lesions on arms.
+LYMPH - no palpable adenopathy in the cervical, supraclavicular, axillary, or inguinal regions
+NEURO - no gross focal deficits
+SKIN - Facial skin inflamed from recent blue light therapy. Multiple seborrheic keratoses on back. Evidence of prior radiation treatment on right chest with hair loss and mild erythema.
+
+ASSESSMENT:
+Multiple squamous cell carcinomas and basal cell carcinomas
+Patient has extensive history of skin cancers treated with various modalities including surgical excision and radiation therapy. Currently has a concerning ulcerated squamous cell carcinoma on left lower leg that is not amenable to radiation per Dr. Shimuzu who will not treat below the knee. Patient has had difficulty with surgical excisions due to being on blood thinners for heart failure and experiencing excessive bleeding and poor healing. Recently started on Acitretin but has not begun taking it due to concerns about alcohol interaction. Recently underwent blue light therapy with significant skin inflammation. Discussed potential for immunotherapy if surgical options are exhausted, with expected 60-70% response rate for squamous cell carcinomas but slower response for basal cell carcinomas. Reviewed potential side effects including skin issues, fatigue, thyroid dysfunction, and rare but serious complications like pneumonitis.
+
+Heart failure
+Diagnosed in 2017, has defibrillator in place. Currently on Entresto and blood thinners. Followed by Dr. Chang at Scripps.
+
+Diabetes mellitus
+Diagnosed in 2010, complicated by neuropathy. Currently managed with Mounjaro and Farxiga (recommended by cardiologist).
+
+RECOMMENDATION/PLAN:
+Will contact Dr. Richards to discuss surgical options for the left lower leg lesion.
+If surgery is not an option, will proceed with immunotherapy which would be administered every 3 weeks for at least one year.
+Immunotherapy would likely address multiple lesions simultaneously.
+No anticipated interactions between immunotherapy and current cardiac medications.
+Patient should establish regular follow-up with primary care physician given multiple medical conditions.
+Patient to continue with current dermatologic care including blue light therapy and consideration of Acitretin.
+
+It is a pleasure to take care of Mr. Grimm.
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software.","PRIMARY CARE PHYSICIAN: Dr. Brunst (previously); currently seen at Perlman Clinic in Santee
+
+CLINICAL SUMMARY:
+80M with multiple squamous cell and basal cell carcinomas requiring ongoing management.
+- Patient has history of numerous skin cancers over several years treated by Dr. Richards (dermatologist)
+- [Date unknown] Multiple prior surgical excisions with difficult healing and bleeding complications due to blood thinner use
+- [Date unknown] Began radiation therapy for some lesions with Dr. Shimuzu after experiencing severe pain during procedures
+- [03/2025] Multiple biopsies showing: chest (squamous cell), right forearm (basal cell), right radial dorsal hand (basal cell), right ulnar dorsal hand (squamous cell in situ), right thigh (squamous cell), left upper back (basal cell)
+- [Date unknown] Completed radiation to lesion on arm one month ago, still healing
+- [Date unknown] Previously evaluated by Dr. Bolin for possible immunotherapy but was not deemed appropriate at that time
+- [08/06/2025] Underwent blue light therapy, skin currently inflamed
+- [Recent] Five new biopsies, all reportedly squamous cell carcinomas
+- Current concerning lesion on left lower leg, ulcerated, present for approximately 6 months, not amenable to radiation per Dr. Shimuzu (who will not treat below elbow or knee)
+
+ADDITIONAL PAST MEDICAL/SURGICAL HISTORY INFORMATION:
+Past medical history:
+- Heart failure diagnosed 2017, has defibrillator
+- Diabetes mellitus, type II diagnosed 2010
+- Diabetic neuropathy for approximately 20 years
+- Three hospitalizations since 2017 for cardiac issues
+- Fall with head injury two years ago, treated at Sharp
+
+Past surgical history:
+- Defibrillator placement 2017
+- Multiple skin cancer excisions
+
+SOCIAL HISTORY:
+- Lives in Lakeside
+- Never smoker
+- Drinks two glasses of wine daily
+- Lives in a vineyard
+
+FAMILY HISTORY:
+- Parents died of ""weak hearts""
+- Brother (7 years younger) had heart transplant
+- No family history of cancer
+
+REVIEW OF SYSTEMS:
+12 point review of systems is reported as stable or normal unless noted in clinical summary or interval history.
+
+PHYSICAL EXAM:
+ECOG 0
+GEN - Well developed, well nourished man in no distress.
+HEENT - sclerae anicteric, mucous membranes moist, no oral lesions
+CV - regular rate and rhythm, no murmurs
+PULM - clear to auscultation bilaterally, no wheezes, rales, or rhonchi
+ABD - soft, non tender, non distended, active bowel sounds, no masses, no hepatosplenomegaly
+EXT - warm, well perfused, no edema. Ulcerated lesion on left lower leg. Multiple lesions on arms.
+LYMPH - no palpable adenopathy in the cervical, supraclavicular, axillary, or inguinal regions
+NEURO - no gross focal deficits
+SKIN - Facial skin inflamed from recent blue light therapy. Multiple seborrheic keratoses on back. Evidence of prior radiation treatment on right chest with hair loss and mild erythema. 
+
+ASSESSMENT:
+Multiple squamous cell carcinomas and basal cell carcinomas
+Patient has extensive history of skin cancers treated with various modalities including surgical excision and radiation therapy. Currently has a concerning ulcerated squamous cell carcinoma on left lower leg that is not amenable to radiation per Dr. Shimuzu who will not treat below the knee. Patient has had difficulty with surgical excisions due to being on blood thinners for heart failure and experiencing excessive bleeding and poor healing. 
+
+Field cancerization
+Recently underwent blue light therapy to scalp and face with significant skin inflammation. Recently prescribed Acitretin but has not begun taking it due to concerns about alcohol interaction. 
+
+Heart failure
+Diagnosed in 2017, has defibrillator in place. Currently on Entresto and blood thinners. Followed by Dr. Chang at Scripps.
+
+
+RECOMMENDATION/PLAN:
+Will contact Dr. Richards to discuss surgical options for the left lower leg lesion.
+If surgery is not an option, will proceed with immunotherapy which would be administered every 3 weeks for at least one year.
+Discussed cemiplimab with expected 60-70% response rate for squamous cell carcinomas but slower response for basal cell carcinomas. Reviewed potential side effects including skin rash or pruritus, fatigue, thyroid dysfunction, and rare but serious complications like pneumonitis.
+Immunotherapy would likely address multiple lesions simultaneously.
+No anticipated interactions between immunotherapy and current cardiac medications.
+Patient should establish regular follow-up with primary care physician given multiple medical conditions.
+Patient to continue with current dermatologic care for field cancerization including blue light therapy and consideration of Acitretin.
+
+It is a pleasure to take care of Mr. Grimm.
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software."
+"HPI:
+Eric Amin is a 24-year-old male presenting for evaluation of low testosterone symptoms. He reports experiencing low energy, fatigue, and feeling sluggish despite getting 8 hours of sleep and maintaining good sleep hygiene with reduced screen time before bed. He also complains of decreased libido and difficulty maintaining erections. The patient has a history of thyroid abnormalities for which he has been taking thyroid medication for approximately 7 years. He states that he initially attributed his symptoms to thyroid issues but decided to get his testosterone checked out of curiosity. Recent lab work showed a testosterone level of 2.95, which is considered low for his age. His TSH is currently elevated at 4.9 with T4 at 1.89. He reports the TSH elevation may be related to switching between generic and brand name thyroid medication. The patient maintains a good diet and sleep habits.
+
+Physical Exam:
+Genitourinary: Testicles normal on examination.
+
+Laboratory Results:
+Testosterone: 2.95
+TSH: 4.9
+T4: 1.89
+Creatinine: 1.1
+GFR: 94
+Cholesterol: 177
+A1C: 5.5
+
+Imaging Results:
+
+Procedure:
+
+Plan:
+1. Hypogonadism, acute - Testosterone level is low at 2.95 for a 24-year-old male. Will obtain comprehensive hormone panel including total and free testosterone, sex hormone binding globulin, LH, FSH, estradiol, and prolactin. Patient instructed to complete testing before 9 AM due to circadian rhythm of testosterone. Will consider Clomid therapy rather than direct testosterone supplementation given patient's young age and potential fertility concerns.
+
+2. Hypothyroidism, chronic - Patient has been on thyroid medication for 7 years. Current TSH elevated at 4.9 with T4 at 1.89. Elevation may be related to switching between generic and brand medication. Will continue current management.
+
+3. Erectile dysfunction, acute - Patient reports difficulty maintaining erections. Will reassess after hormone evaluation is complete.
+
+Follow-up appointment scheduled in 1-2 weeks to review laboratory results and discuss treatment options.","HPI:
+Eric Amin is a 24-year-old male presenting for evaluation of low testosterone symptoms. He reports experiencing low energy, fatigue, and feeling sluggish despite getting 8 hours of sleep and maintaining good sleep hygiene with reduced screen time before bed. He also complains of decreased libido and difficulty maintaining erections. The patient has a history of thyroid abnormalities for which he has been taking thyroid medication for approximately 7 years. He states that he initially attributed his symptoms to thyroid issues but decided to get his testosterone checked out of curiosity. Recent lab work showed a testosterone level of 2.95, which is considered low for his age. His TSH is currently elevated at 4.9 with T4 at 1.89. He reports the TSH elevation may be related to switching between generic and brand name thyroid medication. The patient maintains a good diet and sleep habits.
+
+Physical Exam:
+Genitourinary: Testicles normal on examination.
+
+Laboratory Results:
+Testosterone: 2.95
+TSH: 4.9
+T4: 1.89
+Creatinine: 1.1
+GFR: 94
+Cholesterol: 177
+A1C: 5.5
+
+Imaging Results:
+
+Procedure:
+
+Plan:
+1. Hypogonadism, acute - Testosterone level is low at 2.95 for a 24-year-old male. Will obtain comprehensive hormone panel including total and free testosterone, sex hormone binding globulin, LH, FSH, estradiol, and prolactin. Patient instructed to complete testing before 9 AM due to circadian rhythm of testosterone. Will consider Clomid therapy rather than direct testosterone supplementation given patient's young age and potential fertility concerns.
+
+2. Hypothyroidism, chronic - Patient has been on thyroid medication for 7 years. Current TSH elevated at 4.9 with T4 at 1.89. Elevation may be related to switching between generic and brand medication. Will continue current management.
+
+3. Erectile dysfunction, acute - Patient reports difficulty maintaining erections. Will reassess after hormone evaluation is complete.
+
+Follow-up appointment scheduled in 1-2 weeks to review laboratory results and discuss treatment options.","Chief Complaint:
+Low testosterone
+
+HPI:
+Eric Amin is a 24-year-old male presenting for evaluation of low testosterone symptoms. He reports experiencing low energy, fatigue, and feeling sluggish despite getting 8 hours of sleep and maintaining good sleep hygiene with reduced screen time before bed. He also complains of decreased libido and difficulty maintaining erections. The patient has a history of thyroid abnormalities for which he has been taking thyroid medication for approximately 7 years. He states that he initially attributed his symptoms to thyroid issues but decided to get his testosterone checked out of curiosity. Recent lab work showed a testosterone level of 2.95, which is considered low for his age. His TSH is currently elevated at 4.9 with T4 at 1.89. He reports the TSH elevation may be related to switching between generic and brand name thyroid medication. The patient maintains a good diet and sleep habits.
+
+Physical Exam:
+Genitourinary: Testicles normal on examination.
+
+Laboratory Results:
+Testosterone: 2.95
+TSH: 4.9
+T4: 1.89
+Creatinine: 1.1
+GFR: 94
+Cholesterol: 177
+A1C: 5.5
+
+Imaging Results:
+
+Procedure:
+
+Plan:
+1. Hypogonadism, acute - Testosterone level is low at 2.95 for a 24-year-old male. Will obtain comprehensive hormone panel including total and free testosterone, sex hormone binding globulin, LH, FSH, estradiol, and prolactin. Patient instructed to complete testing before 9 AM due to circadian rhythm of testosterone. Will consider Clomid therapy rather than direct testosterone supplementation given patient's young age and potential fertility concerns.
+
+2. Hypothyroidism, chronic - Patient has been on thyroid medication for 7 years. Current TSH elevated at 4.9 with T4 at 1.89. Elevation may be related to switching between generic and brand medication. Will continue current management.
+
+3. Erectile dysfunction, acute - Patient reports difficulty maintaining erections. Will reassess after hormone evaluation is complete.
+
+Follow-up appointment scheduled in 1-2 weeks to review laboratory results and discuss treatment options."
+"CHIEF COMPLAINT: Evaluation and management of right knee osteoarthritis and bilateral shoulder pain
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Charles Gibbs is a 74-year-old male presenting for his first rheumatology evaluation. He reports a history of right knee problems for ""a few decades"" with progressive decline in function. Six years ago, he was nearly scheduled for knee replacement surgery but was advised by his physical therapist that he could potentially delay surgery with appropriate management. Patient reports that his right knee pain is currently mild (2.5/10) at rest with no pain while sitting. Pain increases with certain activities, particularly when ""coming down the wrong way"" and can reach 4-5/10 at which point he backs off activity. He notes limitations in his ability to bike as he used to, though he maintains an exercise regimen including riding a stationary bike 3 times weekly for 20 minutes. He practices two different schools of Tai Chi and performs strengthening and stretching exercises.Patient also reports bilateral shoulder pain described as ""creepy shoulders"" for approximately 7 years. He was previously evaluated by an orthopedist in Maryland who reviewed x-rays of his knees and shoulders and concluded he was ""a great candidate for surgery in all joints"" but he has been managing conservatively.Of note, in 2020, the patient experienced an episode of migratory joint pain that began with tightness in his right groin, then moved to his hip, and subsequently affected both shoulders. The shoulder pain was severe, making it difficult to put on shirts or lie down in bed, described as feeling ""like someone was sticking needles in my shoulders."" This occurred during early COVID pandemic, and he managed with self-directed physical therapy. By the time he was able to see a physician, symptoms had resolved, and blood work showed no inflammatory markers. This constellation of symptoms has not recurred.Patient had arthroscopic surgery on his left knee ""a long time ago"" which he states ""put me off surgery forever if I can avoid it."" He reports an episode approximately 10 years ago (2015) when his left knee locked after sitting cross-legged to meditate, and he was unable to unlock it for about 5 days. Records indicate ""a large lateral meniscus tear with a displaced fragment and medial meniscus"" at that time, but he declined surgery.Previous imaging from 2020 in Houston reportedly showed osteoarthritis of the right knee. Patient is currently working with a physical therapist at Atlantic Physical Therapy.
+
+INTERVAL HISTORY:
+7/10/2025: Patient returns for follow-up after labs and imaging were ordered at previous visit on 6/5/2025. Patient reports pain level of 0-1/10 in bilateral knees and shoulders. Patient continues to practice Tai Chi and performs regular exercises. Patient reports playing recreational activities including badminton and croquet with grandchildren.
+
+MEDICATIONS:
+Inside         Drug         Script Date         Qty         Rfls         Instructions                               coenzyme Q10 10 mg capsule         6/5/2025                   0
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+OBJECTIVE:
+Physical Examination:
+Gen: Well developed well nourished. HEENT:PERRLA,EOMI, sclera anicteric, oropharynx clear. Nodes: No peripheral adenopathy. Chest: Clear bilaterally. Heart: S1 S2 no murmurs, regular heartbeat.
+Abd: Soft, +BS, non tender and non distended, no masses, no organomegaly. Ext: No edema. Skin: no rash. Neuro: motor and sensory grossly intact. Musculoskeletal: Normal gait.
+
+ASSESSMENT:
+Osteoarthritis of the right knee - Patient presents with tricompartmental osteoarthritis of the right knee confirmed on X-ray from 6/9/25. Moderate to severe changes noted with small joint effusion present. Patient reports pain level of 0-1/10 currently. Administered corticosteroid injection to right knee today. Discussed gel injections (Orthovisc) as next step in management. Will submit prior authorization for bilateral knee viscosupplementation as left knee shows minimal osteoarthritis with possible small joint effusion on X-ray. Patient educated on post-injection care including ice application and activity modification for remainder of day.
+
+Osteoarthritis of the left knee - Minimal osteoarthritis noted on X-ray from 6/9/25 with possible small joint effusion. Patient reports minimal symptoms. Will include in viscosupplementation request to prevent progression of disease.
+
+Bilateral shoulder pain - Patient reports ongoing mild bilateral shoulder pain. X-rays from 6/9/25 show normal skeletal structures bilaterally. Previous MRI from 8/30/2018 (Maryland) was discussed. Given the 7-year interval since previous imaging, consideration for updated MRI may be warranted if symptoms persist or worsen.
+
+History of migratory joint pain (resolved) - No recurrence of migratory joint symptoms since 2020 episode. Laboratory studies from 6/5/25 show no evidence of inflammatory arthritis with normal inflammatory markers. Rheumatoid factor negative, anti-CCP negative, normal ESR/CRP.
+
+PLAN:
+Administered corticosteroid injection to right knee today.
+Patient instructed to apply ice to injection site for 5 minutes twice today, then may apply heat as needed.
+Will submit prior authorization for viscosupplementation (Orthovisc) for bilateral knees.
+Patient may consider hyperbaric oxygen therapy before and after gel injections as discussed.
+Laboratory studies from 6/5/25 reviewed with patient showing normal CBC, kidney and liver function tests.
+Uric acid level 5.9, Vitamin D 57.4, B12 559, glucose 127 (random), rheumatoid factor negative.
+No evidence of inflammatory arthritis on laboratory evaluation.
+Patient to continue current exercise regimen including Tai Chi and strengthening exercises.
+Follow-up appointment scheduled in 4 weeks to reassess symptoms and discuss viscosupplementation if approved.
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software.","CHIEF COMPLAINT: Evaluation and management of right knee osteoarthritis and bilateral shoulder pain
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Charles Gibbs is a 74-year-old male presenting for his first rheumatology evaluation. He reports a history of right knee problems for ""a few decades"" with progressive decline in function. Six years ago, he was nearly scheduled for knee replacement surgery but was advised by his physical therapist that he could potentially delay surgery with appropriate management. Patient reports that his right knee pain is currently mild (2.5/10) at rest with no pain while sitting. Pain increases with certain activities, particularly when ""coming down the wrong way"" and can reach 4-5/10 at which point he backs off activity. He notes limitations in his ability to bike as he used to, though he maintains an exercise regimen including riding a stationary bike 3 times weekly for 20 minutes. He practices two different schools of Tai Chi and performs strengthening and stretching exercises.Patient also reports bilateral shoulder pain described as ""creepy shoulders"" for approximately 7 years. He was previously evaluated by an orthopedist in Maryland who reviewed x-rays of his knees and shoulders and concluded he was ""a great candidate for surgery in all joints"" but he has been managing conservatively.Of note, in 2020, the patient experienced an episode of migratory joint pain that began with tightness in his right groin, then moved to his hip, and subsequently affected both shoulders. The shoulder pain was severe, making it difficult to put on shirts or lie down in bed, described as feeling ""like someone was sticking needles in my shoulders."" This occurred during early COVID pandemic, and he managed with self-directed physical therapy. By the time he was able to see a physician, symptoms had resolved, and blood work showed no inflammatory markers. This constellation of symptoms has not recurred.Patient had arthroscopic surgery on his left knee ""a long time ago"" which he states ""put me off surgery forever if I can avoid it."" He reports an episode approximately 10 years ago (2015) when his left knee locked after sitting cross-legged to meditate, and he was unable to unlock it for about 5 days. Records indicate ""a large lateral meniscus tear with a displaced fragment and medial meniscus"" at that time, but he declined surgery.Previous imaging from 2020 in Houston reportedly showed osteoarthritis of the right knee. Patient is currently working with a physical therapist at Atlantic Physical Therapy.
+
+INTERVAL HISTORY:
+7/10/2025: Patient returns for follow-up after labs and imaging were ordered at previous visit on 6/5/2025. Patient reports pain level of 0-1/10 in bilateral knees and shoulders. Patient continues to practice Tai Chi and performs regular exercises. Patient reports playing recreational activities including badminton and croquet with grandchildren.
+
+MEDICATIONS:
+Inside         Drug         Script Date         Qty         Rfls         Instructions                               coenzyme Q10 10 mg capsule         6/5/2025                   0
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+OBJECTIVE:
+Physical Examination:
+Gen: Well developed well nourished. HEENT:PERRLA,EOMI, sclera anicteric, oropharynx clear. Nodes: No peripheral adenopathy. Chest: Clear bilaterally. Heart: S1 S2 no murmurs, regular heartbeat.
+Abd: Soft, +BS, non tender and non distended, no masses, no organomegaly. Ext: No edema. Skin: no rash. Neuro: motor and sensory grossly intact. Musculoskeletal: Normal gait.
+
+ASSESSMENT:
+Osteoarthritis of the right knee - Patient presents with tricompartmental osteoarthritis of the right knee confirmed on X-ray from 6/9/25. Moderate to severe changes noted with small joint effusion present. Patient reports pain level of 0-1/10 currently. Administered corticosteroid injection to right knee today. Discussed gel injections (Orthovisc) as next step in management. Will submit prior authorization for bilateral knee viscosupplementation as left knee shows minimal osteoarthritis with possible small joint effusion on X-ray. Patient educated on post-injection care including ice application and activity modification for remainder of day.
+
+Osteoarthritis of the left knee - Minimal osteoarthritis noted on X-ray from 6/9/25 with possible small joint effusion. Patient reports minimal symptoms. Will include in viscosupplementation request to prevent progression of disease.
+
+Bilateral shoulder pain - Patient reports ongoing mild bilateral shoulder pain. X-rays from 6/9/25 show normal skeletal structures bilaterally. Previous MRI from 8/30/2018 (Maryland) was discussed. Given the 7-year interval since previous imaging, consideration for updated MRI may be warranted if symptoms persist or worsen.
+
+History of migratory joint pain (resolved) - No recurrence of migratory joint symptoms since 2020 episode. Laboratory studies from 6/5/25 show no evidence of inflammatory arthritis with normal inflammatory markers. Rheumatoid factor negative, anti-CCP negative, normal ESR/CRP.
+
+PLAN:
+Administered corticosteroid injection to right knee today.
+Patient instructed to apply ice to injection site for 5 minutes twice today, then may apply heat as needed.
+Will submit prior authorization for viscosupplementation (Orthovisc) for bilateral knees.
+Patient may consider hyperbaric oxygen therapy before and after gel injections as discussed.
+Laboratory studies from 6/5/25 reviewed with patient showing normal CBC, kidney and liver function tests.
+Uric acid level 5.9, Vitamin D 57.4, B12 559, glucose 127 (random), rheumatoid factor negative.
+No evidence of inflammatory arthritis on laboratory evaluation.
+Patient to continue current exercise regimen including Tai Chi and strengthening exercises.
+Follow-up appointment scheduled in 4 weeks to reassess symptoms and discuss viscosupplementation if approved.
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software.","CHIEF COMPLAINT: Evaluation and management of right knee osteoarthritis and bilateral shoulder pain
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Charles Gibbs is a 74-year-old male presenting for his first rheumatology evaluation. He reports a history of right knee problems for ""a few decades"" with progressive decline in function. Six years ago, he was nearly scheduled for knee replacement surgery but was advised by his physical therapist that he could potentially delay surgery with appropriate management. Patient reports that his right knee pain is currently mild (2.5/10) at rest with no pain while sitting. Pain increases with certain activities, particularly when ""coming down the wrong way"" and can reach 4-5/10 at which point he backs off activity. He notes limitations in his ability to bike as he used to, though he maintains an exercise regimen including riding a stationary bike 3 times weekly for 20 minutes. He practices two different schools of Tai Chi and performs strengthening and stretching exercises.Patient also reports bilateral shoulder pain described as ""creepy shoulders"" for approximately 7 years. He was previously evaluated by an orthopedist in Maryland who reviewed x-rays of his knees and shoulders and concluded he was ""a great candidate for surgery in all joints"" but he has been managing conservatively.Of note, in 2020, the patient experienced an episode of migratory joint pain that began with tightness in his right groin, then moved to his hip, and subsequently affected both shoulders. The shoulder pain was severe, making it difficult to put on shirts or lie down in bed, described as feeling ""like someone was sticking needles in my shoulders."" This occurred during early COVID pandemic, and he managed with self-directed physical therapy. By the time he was able to see a physician, symptoms had resolved, and blood work showed no inflammatory markers. This constellation of symptoms has not recurred.Patient had arthroscopic surgery on his left knee ""a long time ago"" which he states ""put me off surgery forever if I can avoid it."" He reports an episode approximately 10 years ago (2015) when his left knee locked after sitting cross-legged to meditate, and he was unable to unlock it for about 5 days. Records indicate ""a large lateral meniscus tear with a displaced fragment and medial meniscus"" at that time, but he declined surgery.Previous imaging from 2020 in Houston reportedly showed osteoarthritis of the right knee. Patient is currently working with a physical therapist at Atlantic Physical Therapy.
+
+INTERVAL HISTORY:
+7/10/2025: Patient returns for follow-up after labs and imaging were ordered at previous visit on 6/5/2025. Patient reports pain level of 0-1/10 in bilateral knees and shoulders. Patient continues to practice Tai Chi and performs regular exercises. Patient reports playing recreational activities including badminton and croquet with grandchildren.
+
+MEDICATIONS:
+Inside         Drug         Script Date         Qty         Rfls         Instructions                               coenzyme Q10 10 mg capsule         6/5/2025                   0
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+OBJECTIVE:
+Physical Examination:
+Gen: Well developed well nourished. HEENT:PERRLA,EOMI, sclera anicteric, oropharynx clear. Nodes: No peripheral adenopathy. Chest: Clear bilaterally. Heart: S1 S2 no murmurs, regular heartbeat.
+Abd: Soft, +BS, non tender and non distended, no masses, no organomegaly. Ext: No edema. Skin: no rash. Neuro: motor and sensory grossly intact. Musculoskeletal: Normal gait.
+
+ASSESSMENT:
+Osteoarthritis of the right knee - Patient presents with tricompartmental osteoarthritis of the right knee confirmed on X-ray from 6/9/25. Moderate to severe changes noted with small joint effusion present. Patient reports pain level of 0-1/10 currently. Administered corticosteroid injection to right knee today. Discussed gel injections (Orthovisc) as next step in management. Will submit prior authorization for bilateral knee viscosupplementation as left knee shows minimal osteoarthritis with possible small joint effusion on X-ray. Patient educated on post-injection care including ice application and activity modification for remainder of day.
+
+Osteoarthritis of the left knee - Minimal osteoarthritis noted on X-ray from 6/9/25 with possible small joint effusion. Patient reports minimal symptoms. Will include in viscosupplementation request to prevent progression of disease.
+
+Bilateral shoulder pain - Patient reports ongoing mild bilateral shoulder pain. X-rays from 6/9/25 show normal skeletal structures bilaterally. Previous MRI from 8/30/2018 (Maryland) was discussed. Given the 7-year interval since previous imaging, consideration for updated MRI may be warranted if symptoms persist or worsen.
+
+History of migratory joint pain (resolved) - No recurrence of migratory joint symptoms since 2020 episode. Laboratory studies from 6/5/25 show no evidence of inflammatory arthritis with normal inflammatory markers. Rheumatoid factor negative, anti-CCP negative, normal ESR/CRP.
+
+PLAN:
+Administered corticosteroid injection to right knee today.
+Patient instructed to apply ice to injection site for 5 minutes twice today, then may apply heat as needed.
+Will submit prior authorization for viscosupplementation (Orthovisc) for bilateral knees.
+Patient may consider hyperbaric oxygen therapy before and after gel injections as discussed.
+Laboratory studies from 6/5/25 reviewed with patient showing normal CBC, kidney and liver function tests.
+Uric acid level 5.9, Vitamin D 57.4, B12 559, glucose 127 (random), rheumatoid factor negative.
+No evidence of inflammatory arthritis on laboratory evaluation.
+Patient to continue current exercise regimen including Tai Chi and strengthening exercises.
+Follow-up appointment scheduled in 4 weeks to reassess symptoms and discuss viscosupplementation if approved.
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software."
+"HPI:
+Afrodite Paxos presents for follow-up of kidney stones and hematuria. Patient continues to have blood in her urine today. She previously had a negative cystoscopy and imaging tests that confirmed kidney stones. An ultrasound from March 2024 showed no definitive stone but noted possible mild swelling of the right kidney. Patient reports right-sided flank pain that occurs when sitting for prolonged periods, describing it as ""jabbing"" pain that makes it difficult to catch her breath. She initially thought it might be sciatica and visited a chiropractor. Patient is planning a trip to Greece with her 92-year-old mother who has dementia. Patient reports significant caregiver stress as she cares for her mother from early morning until midnight daily.
+
+Physical Exam:
+Patient points to right flank area when describing pain. Pain appears to be positional and located higher than typical kidney pain.
+
+Laboratory Results:
+Urinalysis shows persistent hematuria.
+
+Imaging Results:
+Ultrasound from March 2024 showed no definitive stone but possible mild swelling of the right kidney.
+
+Procedure:
+
+Plan:
+1. Nephrolithiasis/Hematuria - Chronic. Patient continues to have microscopic hematuria. Will order renal ultrasound to evaluate for kidney stones and to assess previously noted mild right kidney swelling. Will also order urine cytology to rule out malignancy. Pain described appears to be musculoskeletal rather than renal in origin based on location and positional nature. Will coordinate care with Dr. Forward and send all results. Follow up after ultrasound results; may consider CT scan if ultrasound shows persistent kidney swelling.","HPI:
+Afrodite Paxos presents for follow-up of kidney stones and hematuria. Patient continues to have blood in her urine today. She previously had a negative cystoscopy and imaging tests that confirmed kidney stones. An ultrasound from March 2024 showed no definitive stone but noted possible mild swelling of the right kidney. Patient reports right-sided flank pain that occurs when sitting for prolonged periods, describing it as ""jabbing"" pain that makes it difficult to catch her breath. She initially thought it might be sciatica and visited a chiropractor. Patient is planning a trip to Greece with her 92-year-old mother who has dementia. Patient reports significant caregiver stress as she cares for her mother from early morning until midnight daily.
+
+Physical Exam:
+Patient points to right flank area when describing pain. Pain appears to be positional and located higher than typical kidney pain.
+
+Laboratory Results:
+Urinalysis shows persistent hematuria.
+
+Imaging Results:
+Ultrasound from March 2024 showed no definitive stone but possible mild swelling of the right kidney.
+
+Procedure:
+
+Plan:
+1. Nephrolithiasis/Hematuria - Chronic. Patient continues to have microscopic hematuria. Will order renal ultrasound to evaluate for kidney stones and to assess previously noted mild right kidney swelling. Will also order urine cytology to rule out malignancy. Pain described appears to be musculoskeletal rather than renal in origin based on location and positional nature. Will coordinate care with Dr. Forward and send all results. Follow up after ultrasound results; may consider CT scan if ultrasound shows persistent kidney swelling.","Chief Complaint:
+Blood in urine
+
+HPI:
+Afrodite Paxos presents for follow-up of kidney stones and hematuria. Patient continues to have blood in her urine today. She previously had a negative cystoscopy and imaging tests that confirmed kidney stones. An ultrasound from March 2024 showed no definitive stone but noted possible mild swelling of the right kidney. Patient reports right-sided flank pain that occurs when sitting for prolonged periods, describing it as ""jabbing"" pain that makes it difficult to catch her breath. She initially thought it might be sciatica and visited a chiropractor. Patient is planning a trip to Greece with her 92-year-old mother who has dementia. Patient reports significant caregiver stress as she cares for her mother from early morning until midnight daily.
+
+Physical Exam:
+Patient points to right flank area when describing pain. Pain appears to be positional and located higher than typical kidney pain.
+
+Laboratory Results:
+Urinalysis shows persistent hematuria.
+
+Imaging Results:
+Ultrasound from March 2024 showed no definitive stone but possible mild swelling of the right kidney.
+
+Procedure:
+
+Plan:
+1. Nephrolithiasis/Hematuria - Chronic. Patient continues to have microscopic hematuria. Will order renal ultrasound to evaluate for kidney stones and to assess previously noted mild right kidney swelling. Will also order urine cytology to rule out malignancy. Pain described appears to be musculoskeletal rather than renal in origin based on location and positional nature. Will coordinate care with Dr. Forward and send all results. Follow up after ultrasound results; may consider CT scan if ultrasound shows persistent kidney swelling."
+"CHIEF COMPLAINT: Evaluation and management of: scrotal tightness, testicular asymmetry, and possible varicocele.
+
+HPI: 
+Patient is a male who presents with concerns about changes in his scrotum noticed approximately one month ago. He reports waking up and feeling that his scrotum was ""tighter than normal,"" stating he is usually ""very loose"" but has been ""super tight"" since. The tightness comes and goes but has never returned to his baseline looseness. He denies pain associated with this change. While examining himself, he noticed what he describes as ""super thick veins on the left side"" which he states have been present since childhood. He reports feeling an area where ""the vein meets the testicle"" that feels ""a little bit harder or more dense."" He denies urinary symptoms, pelvic pain, testicular pain, scrotal pain, lower abdominal pain, or trauma to the area. He does report experiencing occasional testicular pain described as a ""little twinge"" that occurs approximately once every five months and resolves quickly. No recent changes in exercise. Patient has three children from four attempts at conception, denying any fertility issues. He is also interested in discussing vasectomy options.
+
+Physical Exam:
+Abdomen: No pain on palpation.
+Groin: No pain or bulging noted. No evidence of hernia.
+Penis: No pain or abnormalities.
+Testicles: Right testicle smaller than left, which patient reports has been longstanding. Left testicle normal in size and consistency. No masses palpated in either testicle.
+Spermatic cords: Palpable bilaterally. Thickened spermatic cord on left side but no definite abnormality identified. Vasa deferentia palpable bilaterally.
+
+Laboratory Results:
+
+Imaging Results:
+
+Procedure:
+
+Plan:
+1. Scrotal tightness - Acute. Likely musculoskeletal in origin. Recommended pelvic stretches to help with muscle tightness in groin area.
+
+2. Testicular asymmetry - Chronic. Right testicle smaller than left, which patient reports is longstanding. No masses palpated. Ordered scrotal ultrasound for further evaluation and reassurance.
+
+3. Possible varicocele - Chronic. Patient reports thick veins on left side since childhood. No definitive varicocele identified on exam, but thickened cord noted. Scrotal ultrasound will help evaluate this further.
+
+4. Vasectomy consultation - Patient interested in vasectomy. Discussed procedure details including technique (middle scrotal incision, isolation of vas deferens, placement of metal clips, segment removal, and lumen cauterization). Reviewed potential complications including infection, testicular injury, and post-procedure swelling. Emphasized importance of post-vasectomy semen analysis at 3 months. Patient prefers lab drop-off for semen analysis rather than at-home testing. Will have scheduler contact patient to arrange procedure if he decides to proceed after discussing with his wife. The risks, benefits, and alternatives of the proposed procedure were discussed with the patient at length and in detail. Possible complications including but not limited to pain, infection, bleeding, scar tissue formation, injury to adjacent structures, and the need for postoperative treatments including further surgical procedures were explained.
+
+Macros added: [Any discussion regarding surgery or a procedure]","CHIEF COMPLAINT: Evaluation and management of: scrotal tightness, testicular asymmetry, and possible varicocele.
+
+HPI: 
+Patient is a male who presents with concerns about changes in his scrotum noticed approximately one month ago. He reports waking up and feeling that his scrotum was ""tighter than normal,"" stating he is usually ""very loose"" but has been ""super tight"" since. The tightness comes and goes but has never returned to his baseline looseness. He denies pain associated with this change. While examining himself, he noticed what he describes as ""super thick veins on the left side"" which he states have been present since childhood. He reports feeling an area where ""the vein meets the testicle"" that feels ""a little bit harder or more dense."" He denies urinary symptoms, pelvic pain, testicular pain, scrotal pain, lower abdominal pain, or trauma to the area. He does report experiencing occasional testicular pain described as a ""little twinge"" that occurs approximately once every five months and resolves quickly. No recent changes in exercise. Patient has three children from four attempts at conception, denying any fertility issues. He is also interested in discussing vasectomy options.
+
+Physical Exam:
+Abdomen: No pain on palpation.
+Groin: No pain or bulging noted. No evidence of hernia.
+Penis: No pain or abnormalities.
+Testicles: Right testicle smaller than left, which patient reports has been longstanding. Left testicle normal in size and consistency. No masses palpated in either testicle.
+Spermatic cords: Palpable bilaterally. Thickened spermatic cord on left side but no definite abnormality identified. Vasa deferentia palpable bilaterally.
+
+Laboratory Results:
+
+Imaging Results:
+
+Procedure:
+
+Plan:
+1. Scrotal tightness - Acute. Likely musculoskeletal in origin. Recommended pelvic stretches to help with muscle tightness in groin area.
+
+2. Testicular asymmetry - Chronic. Right testicle smaller than left, which patient reports is longstanding. No masses palpated. Ordered scrotal ultrasound for further evaluation and reassurance.
+
+3. Possible varicocele - Chronic. Patient reports thick veins on left side since childhood. No definitive varicocele identified on exam, but thickened cord noted. Scrotal ultrasound will help evaluate this further.
+
+4. Vasectomy consultation - Patient interested in vasectomy. Discussed procedure details including technique (middle scrotal incision, isolation of vas deferens, placement of metal clips, segment removal, and lumen cauterization). Reviewed potential complications including infection, testicular injury, and post-procedure swelling. Emphasized importance of post-vasectomy semen analysis at 3 months. Patient prefers lab drop-off for semen analysis rather than at-home testing. Will have scheduler contact patient to arrange procedure if he decides to proceed after discussing with his wife. The risks, benefits, and alternatives of the proposed procedure were discussed with the patient at length and in detail. Possible complications including but not limited to pain, infection, bleeding, scar tissue formation, injury to adjacent structures, and the need for postoperative treatments including further surgical procedures were explained.
+
+Macros added: [Any discussion regarding surgery or a procedure]","CHIEF COMPLAINT: 
+Evaluation and management of scrotal tightness and vasectomy consultation
+
+HPI: 
+Patient is a male who presents with concerns about changes in his scrotum noticed approximately one month ago. He reports waking up and feeling that his scrotum was ""tighter than normal,"" stating he is usually ""very loose"" but has been ""super tight"" since. The tightness comes and goes but has never returned to his baseline looseness. He denies pain associated with this change. While examining himself, he noticed what he describes as ""super thick veins on the left side"" which he states have been present since childhood. He reports feeling an area where ""the vein meets the testicle"" that feels ""a little bit harder or more dense."" He denies urinary symptoms, pelvic pain, testicular pain, scrotal pain, lower abdominal pain, or trauma to the area. He does report experiencing occasional testicular pain described as a ""little twinge"" that occurs approximately once every five months and resolves quickly. No recent changes in exercise. Patient has three children from four attempts at conception, denying any fertility issues. He is also interested in discussing vasectomy options.
+
+Physical Exam:
+Abdomen: No pain on palpation.
+Groin: No pain or bulging noted. No evidence of hernia.
+Penis: No pain or abnormalities.
+Testicles: Right testicle smaller than left, which patient reports has been longstanding. Left testicle normal in size and consistency. No masses palpated in either testicle.
+Spermatic cords: Palpable bilaterally. Thickened spermatic cord on left side but no definite abnormality identified. Vas deferens palpable bilaterally.
+
+Laboratory Results:
+
+Imaging Results:
+
+Procedure:
+
+Plan:
+1. Scrotal tightness - Likely musculoskeletal in origin. Recommended pelvic stretches to help with muscle tightness in groin area.
+
+2. Testicular asymmetry - Chronic. Right testicle smaller than left, which patient reports is longstanding. No masses palpated. Ordered scrotal ultrasound for further evaluation and reassurance.
+
+3. Possible varicocele - Chronic. Patient reports thick veins on left side since childhood. No definitive varicocele identified on exam, but thickened cord noted. Scrotal ultrasound will help evaluate this further.
+
+4. Vasectomy consultation - Patient interested in vasectomy. Discussed procedure details including technique (middle scrotal incision, isolation of vas deferens, placement of metal clips, segment removal, and lumen cauterization). Reviewed potential complications including infection, testicular injury, and post-procedure swelling. Emphasized importance of post-vasectomy semen analysis at 3 months. Patient prefers lab drop-off for semen analysis rather than at-home testing. Will have scheduler contact patient to arrange procedure if he decides to proceed after discussing with his wife. The risks, benefits, and alternatives of the proposed procedure were discussed with the patient at length and in detail. Possible complications including but not limited to pain, infection, bleeding, scar tissue formation, injury to adjacent structures, and the need for postoperative treatments including further surgical procedures were explained. Will schedule under sedation.  Risk factors include obesity. 
+"
+"CHIEF COMPLAINT:
+Evaluation and Management of: TMJ disorder, skin rash, neck pain, swelling on left side of face
+
+INTERVAL HISTORY:
+Patient presents for follow-up of multiple concerns. She reports worsening TMJ disorder with a change in her bite. She recently saw Dr. Weddle, a TMJ specialist dentist, who performed a 360-degree CT scan of her jaw. The scan revealed hypertrophy of the tonsils, inward adenoids, and a narrow airway. Dr. Weddle noted concerns about the patient's posture, with her head positioned inward, and diagnosed arthritis of the cervical spine and temporomandibular joints. Dr. Weddle recommended a sleep study and referred patient to Dr. Samuel Ney. Patient also reports a persistent pre-auricular swelling on the left side that has been present for approximately 6 months and is now visible. Additionally, she has a worsening rash on her legs and behind her knees that has not responded to tacrolimus or clobetasol. Patient reports some hearing loss but has not been formally evaluated. She continues to experience migraines, which she has had since puberty, with Ubrelvy and Emgality providing relief about 80% of the time.
+
+PAST MEDICAL HISTORY:
+Urticaria, unspecified         11/21/2024         L50.9         Active
+Mixed hyperlipidemia         11/21/2024         E78.2         Active
+Migraines
+Osteopenia
+TMJ disorder
+Arthritis of cervical spine
+
+PAST SURGICAL HISTORY:
+None
+
+ALLERGIES:
+No known allergies
+No known drug allergies
+
+MEDICATIONS:
+Synthroid 75mcg once daily
+Vitamin D
+Vitamin B (once weekly)
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+Vitals:
+Blood pressure: WNL
+Weight: 161.6 lbs (stable from previous visit)
+Temperature: 99.6°F
+
+OBJECTIVE:
+Physical Examination:
+General Appearance: no acute distress
+Skin: Hyperpigmented rash on legs and behind knees, not responding to topical treatments
+Head: normocephalic, atraumatic
+Eyes: sclera non-icteric
+Neck: supple
+Respiratory: lungs clear to auscultation bilaterally
+Cardiovascular: normal S1 and S2
+Gastrointestinal: abdomen soft, non-tender, non distended
+Musculoskeletal: normal ROM b/l upper and lower extremities, forward head posture noted
+Extremities: no edema noted
+Neurologic: alert and oriented, no gross focal neurologic deficits
+Psychiatric: appropriate mood and affect
+
+IMPRESSION/PLAN:
+Urticaria, unspecified -- Not discussed today.
+
+Mixed hyperlipidemia -- Last checked January 2024, cholesterol was 237 with LDL 144. Patient to return fasting on Tuesday at 8:15 AM for lipid panel, thyroid function tests, vitamin B and vitamin D levels.
+
+TMJ disorder with bite change -- Patient recently evaluated by Dr. Weddle, TMJ specialist dentist. CT scan shows arthritis of temporomandibular joints. Currently uses mouth guard. Will obtain full report from Dr. Weddle for review.
+
+Pre-auricular lesion -- Present for approximately 6 months, now visible. Likely genetic. Recommend warm compresses. Referred to ENT Associates of New Jersey for evaluation, especially given reported hearing loss.
+
+Skin rash -- Non-responsive to tacrolimus and clobetasol. Not consistent with petechiae (platelets 260). Referred to Dr. Rothsch at 603 Cranberry Road for dermatology evaluation and possible biopsy.
+
+Cervical spine arthritis -- Referred for physical therapy to address posture issues and strengthen cervical spine. Patient reports already doing some exercises previously recommended.
+
+Possible sleep apnea -- CT scan shows hypertrophy of tonsils, narrow airway. Dr. Weddle recommended sleep study with Dr. Samuel Ney. Patient to confirm if Dr. Ney sees adult patients as he is listed as a pediatrician. If needed, alternative referral to Pulmonary Associates of New Jersey at 593 Cranberry Road or home sleep study through Blackstone can be arranged.
+
+STATUS: Monitor Closely
+
+FOLLOW UP: 2 weeks
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software.","REFERRING PROVIDER:
+
+CHIEF COMPLAINT:
+Evaluation and management of preauricular swelling, worsening skin lesions on legs, and follow-up on dental imaging findings
+
+INTERVAL HISTORY:
+Patient presents for follow-up of preauricular swelling on the left side that has been present for approximately 6 months and is now visible, whereas it was not visible before. Patient recently underwent dental imaging (360 degree CT scan) on 7-8-2025 with Dr. Weddle, a TMJ/TMD specialist. The imaging showed hypertrophy of the tonsils, enlarged adenoids, narrow airway, and arthritis of the temporomandibular joints and cervical spine. Patient reports longstanding TMJ but notes recent bite change that prompted evaluation. Patient has had migraines since puberty, currently managed with Qulipta and Ubrelvy which work approximately 80% of the time. Patient reports some hearing loss but has not been formally evaluated. Patient also presents with worsening skin lesions on both legs and back of knees that started small and have gotten progressively larger over the past several months. Patient has been applying tacrolimus and clobetasol without improvement. Patient denies these lesions are eczema, stating she has eczema elsewhere but this appears different. Patient wore pulse oximetry devices overnight as part of dental evaluation to assess oxygen saturation patterns. Patient currently takes synthetic thyroid medication 75 mcg once daily, waiting 30 minutes before eating. Patient has been taking vitamin D and calcium for osteopenia and reduced vitamin B to once weekly dosing.
+
+PAST MEDICAL HISTORY:
+Migraines since puberty
+TMJ (longstanding)
+Osteopenia
+Eczema
+Arthritis of cervical spine
+Hypertrophy of tonsils
+Enlarged adenoids
+Migraines
+Urticaria, unspecified         11/21/2024         L50.9         Active
+Mixed hyperlipidemia         11/21/2024         E78.2         Active
+
+PAST SURGICAL HISTORY:
+None documented
+
+ALLERGIES:
+No known allergies
+No known drug allergies
+
+MEDICATIONS:
+Qulipta
+Ubrelvy
+Levothyroxine 75 mcg daily
+Vitamin D
+Calcium
+Vitamin B (once weekly)
+Tacrolimus
+Clobetasol
+
+FAMILY HISTORY:
+Preauricular lesion likely genetic (someone in family typically has this condition)
+
+TOBACCO USE AND CESSATION COUNSELING:
+Not documented
+
+SOCIAL HISTORY:
+
+OCCUPATION:
+Not documented
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+Vitals:
+Temperature 99.6
+Blood pressure good (stable)
+Weight 161.6 (stable from prior visit)
+
+OBJECTIVE:
+Physical Examination:
+General Appearance: no acute distress
+Skin: intact, no rash or lesions except hyperpigmented brownish lesions on bilateral legs and back of knees
+Head: normocephalic, atraumatic
+Eyes: sclera non-icteric
+Neck: supple
+Respiratory: lungs clear to auscultation
+Cardiovascular: normal S1 and S2
+Gastrointestinal: abdomen soft, non-tender, non distended
+Musculoskeletal: normal ROM b/l upper and lower extremities
+Extremities: no edema noted
+Neurologic: alert and oriented, no gross focal neurologic deficits
+Psychiatric: appropriate mood and affect
+
+IMPRESSION/PLAN:
+Preauricular lesion, left side
+-- This appears to be a benign preauricular pit/sinus which is typically genetic. Patient will be referred to ENT Associates of New Jersey on Cranbury Road for evaluation and to rule out any drainage or infection.
+--  Warm compresses recommended. 
+-- ENT will also evaluate hearing loss and enlarged tonsils/adenoids which may be contributing to airway narrowing.
+
+Skin lesions, bilateral legs 
+-- Rule out malignancy
+-- Patient has hyperpigmented brownish lesions on bilateral legs that have been progressively worsening despite topical steroids. 
+-- Will refer to dermatology (Dr. Rothfleisch, 603 Cranbury Road) for evaluation and possible biopsy given lack of response to clobetasol treatment.
+
+Cervical spine arthritis
+-- Patient will be referred for physical therapy exercises to help with posture and cervical spine strengthening.
+
+Hyperlipidemia 
+-- Follow up needed
+-- Patient's cholesterol was elevated at 237 with LDL 144. Will recheck fasting lipid panel along with thyroid function and vitamin levels on Tuesday morning at 8 AM.
+
+Sleep study evaluation pending
+-- Patient referred to Dr. Samuel Knee for sleep study evaluation given narrow airway and enlarged tonsils/adenoids found on dental imaging. Will verify if provider sees adults. 
+-- Alternative referral to Pulmonary Associates of New Jersey at 593 Cranbury Road available if needed.
+
+TMJ disorder with bite change 
+-- Patient recently evaluated by Dr. Weddle, TMJ specialist dentist. 
+-- CT scan shows arthritis of temporomandibular joints. 
+-- Currently uses mouth guard. 
+-- Will obtain full report from Dr. Weddle for review.
+
+Status: 
+Monitor Closely
+
+Follow up: 
+2 months
+
+Referrals: 
+Dermatology, ENT Associates of New Jersey, Physical Therapy
+","REFERRING PROVIDER:
+
+CHIEF COMPLAINT:
+Evaluation and management of preauricular swelling, worsening skin lesions on legs, and follow-up on dental imaging findings
+
+INTERVAL HISTORY:
+Patient presents for follow-up of preauricular sinus on the left side that has been present for approximately 6 months and is now visible, whereas it was not visible before. Patient recently underwent dental imaging (360 degree CT scan) on 7-8-2025 with Dr. Weddle, a TMJ/TMD specialist. The imaging showed hypertrophy of the tonsils, enlarged adenoids, narrow airway, and arthritis of the temporomandibular joints and cervical spine. Patient reports longstanding TMJ but notes recent bite change that prompted evaluation. Patient has had migraines since puberty, currently managed with Qulipta and Ubrelvy which work approximately 80% of the time. Patient reports some hearing loss but has not been formally evaluated. Patient also presents with worsening skin lesions on both legs and back of knees that started small and have gotten progressively larger over the past several months. Patient has been applying tacrolimus and clobetasol without improvement. Patient denies these lesions are eczema, stating she has eczema elsewhere but this appears different. Patient wore pulse oximetry devices overnight as part of dental evaluation to assess oxygen saturation patterns. Patient currently takes synthetic thyroid medication 75 mcg once daily, waiting 30 minutes before eating. Patient has been taking vitamin D and calcium for osteopenia and reduced vitamin B to once weekly dosing.
+
+PAST MEDICAL HISTORY:
+Migraines since puberty
+TMJ (longstanding)
+Osteopenia
+Eczema
+Arthritis of cervical spine
+Hypertrophy of tonsils
+Enlarged adenoids
+Migraines
+Urticaria, unspecified         11/21/2024         L50.9         Active
+Mixed hyperlipidemia         11/21/2024         E78.2         Active
+Lymphedema LUE
+Breast cancer
+
+PAST SURGICAL HISTORY:
+None documented
+
+ALLERGIES:
+No known allergies
+No known drug allergies
+
+MEDICATIONS:
+Qulipta
+Ubrelvy
+Levothyroxine 75 mcg daily
+Vitamin D
+Calcium
+Vitamin B (once weekly)
+Tacrolimus
+Clobetasol
+
+FAMILY HISTORY:
+Preauricular lesion likely genetic (someone in family typically has this condition)
+
+TOBACCO USE AND CESSATION COUNSELING:
+Not documented
+
+SOCIAL HISTORY:
+
+OCCUPATION:
+Not documented
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+Vitals:
+Temperature 99.6
+Blood pressure good (stable)
+Weight 161.6 (stable from prior visit)
+
+OBJECTIVE:
+Physical Examination:
+General Appearance: no acute distress
+Skin: intact, no rash or lesions except hyperpigmented brownish lesions on bilateral legs and back of knees
+Head: normocephalic, atraumatic
+Eyes: sclera non-icteric
+Neck: supple
+Respiratory: lungs clear to auscultation
+Cardiovascular: normal S1 and S2
+Gastrointestinal: abdomen soft, non-tender, non distended
+Musculoskeletal: normal ROM b/l upper and lower extremities
+Extremities: no edema noted
+Neurologic: alert and oriented, no gross focal neurologic deficits
+Psychiatric: appropriate mood and affect
+
+IMPRESSION/PLAN:
+Preauricular sinus, left side
+-- This appears to be a benign preauricular pit/sinus which is typically genetic. Patient will be referred to ENT Associates of New Jersey on Cranbury Road for evaluation and to rule out any drainage or infection.
+--  Warm compresses recommended. 
+-- ENT will also evaluate hearing loss and enlarged tonsils/adenoids which may be contributing to airway narrowing.
+
+Skin lesions, bilateral legs 
+-- Rule out malignancy
+-- Patient has hyperpigmented brownish lesions on bilateral legs that have been progressively worsening despite topical steroids. 
+-- Will refer to dermatology (Dr. Rothfleisch, 603 Cranbury Road) for evaluation and possible biopsy given lack of response to clobetasol treatment.
+
+Cervical spine arthritis
+-- Patient will be referred for physical therapy exercises to help with posture and cervical spine strengthening.
+
+Hyperlipidemia 
+-- Follow up needed
+-- Patient's cholesterol was elevated at 237 with LDL 144. Will recheck fasting lipid panel along with thyroid function and vitamin levels on Tuesday morning at 8 AM.
+
+Sleep study evaluation pending
+-- Patient referred to Dr. Samuel Knee for sleep study evaluation given narrow airway and enlarged tonsils/adenoids found on dental imaging. Will verify if provider sees adults. 
+-- Alternative referral to Pulmonary Associates of New Jersey at 593 Cranbury Road available if needed.
+
+TMJ disorder with bite change 
+-- Patient recently evaluated by Dr. Weddle, TMJ specialist dentist. 
+-- CT scan shows arthritis of temporomandibular joints. 
+-- Currently uses mouth guard. 
+-- Will obtain full report from Dr. Weddle for review.
+
+Hypothyroidism
+--continue with synthroid 75 micrograms one po daily
+--ordered TSH, T4 free
+
+Low Vit B12
+--ordered B12 was elevated last time and pt decreased dose
+
+Breast Cancer
+--continue care with breast surgeon and oncology
+
+Osteopenia
+--On Cal/vit d
+--Dexa 1/25
+--Continue weight bearing exercises
+
+Status: 
+Monitor Closely
+
+Follow up: 
+2 months
+
+Referrals: 
+Dermatology, ENT Associates of New Jersey, Physical Therapy
+"
+"CHIEF COMPLAINT:
+Evaluation and management of pancreatic cancer
+
+DISEASE HISTORY:
+73-year-old woman.
+8/31/23: Underwent a CT which revealed a moderate right pleural effusion, mild intra/extrahepatic biliary ductal dilatation, and an abnormal pancreatic duct dilatation. A mass was noted in the body/neck of the pancreas causing narrowing of the splenic vein. Celiac and SMA were patent.
+9/20/23: Underwent an MRI. She also had a negative EGD and colon. She ultimately saw Dr. Korman and had an EUS. Biopsy of the pancreas revealed fragments consistent with pancreatic adenocarcinoma.
+10/23: Began FOLFIRINOX. Significant issues with fatigue, cytopenias, and diarrhea.
+2/24: Scan with stable disease. Marker went to normal.
+3/14/24: Had distal pancreatectomy/splenectomy and splenic artery excision with Dr. Eskander. Path showed extensive disease; R2 resection, positive margin, T4 disease with disease involving celiac axis. Nodes negative.
+4/24: Wound infection.
+5/24: Readmitted. CA 199 had risen slightly. Admitted for severe abdominal pain controlled with narcotics.
+6/17/24: Initiated gem/abraxane.
+7/10/24: Adm after cycle 1 with dehydration and failure to thrive
+
+INTERVAL HISTORY:
+07/02/25: Patient presents for follow-up after recent hospitalization for severe fatigue and low blood pressure. Patient was admitted on 06/22/25 with extreme fatigue and inability to function. Prior to admission, patient had dental extraction with subsequent profuse oral bleeding, likely contributing to anemia. During hospitalization, cardiac evaluation revealed 100% blockage requiring stent placement on 06/27/25. Patient received blood transfusion and IV iron. CA 19-9 was 108 in hospital (down from 150 previously). Patient reports improved energy since discharge, especially when sitting, though still experiences fatigue attributed to chemotherapy. Lower extremity edema has ""diminished greatly."" Currently on Plavix in addition to aspirin following cardiac stent placement.
+
+ALLERGIES:
+No known allergies
+No known drug allergies
+
+MEDICATIONS:
+Continued medications: aspirin 81 mg capsule, ATORVASTATIN CALCIUM 10 MG TABS, Creon 24000-76000-120000 unit capsule delayed release, Creon 24000-76000-120000 unit capsule delayed release, hyoscyamine 0.125 mg disintegrating tablet, hyoscyamine 0.125 mg disintegrating tablet, Januvia 50 mg tablet, lactulose 20 gram/30 mL oral solution, Lomotil 2.5 mg-0.025 mg tablet, Lomotil 2.5 mg-0.025 mg tablet, METFORMIN HYDROCHLORIDE 1000 MG TABS, morphine concentrate 100 mg/5 mL (20 mg/mL) oral solution, morphine ER 30 mg tablet extended release, morphine ER 60 mg tablet extended release, MORPHINE SULF 100MG/5ML(20MG/ML)SOL, Nivestym 300 mcg/0.5 mL subcutaneous syringe, Nivestym 300 mcg/mL injection solution, olanzapine 5 mg disintegrating tablet, ondansetron HCl 8 mg tablet, ondansetron HCl 8 mg tablet, oxycodone 5 mg tablet, oxycodone 5 mg tablet, potassium chloride ER 10 mEq tablet extended release, prednisone 10 mg tablet, prednisone 2.5 mg tablet, prochlorperazine maleate 10 mg tablet, Rolvedon 13.2 mg/0.6 mL subcutaneous syringe, senna 8.6 mg capsule, TOUJEO MAX SOLOSTAR 300 UNIT/ML SOPN, Udenyca 6 mg/0.6 mL subcutaneous syringe.
+New: Plavix (following cardiac stent placement)
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+OBJECTIVE:
+Physical Examination:
+Gen: Well developed well nourished. HEENT:PERRLA,EOMI, sclera anicteric, oropharynx clear. Nodes: No peripheral adenopathy. Chest: Clear bilaterally. Heart: S1 S2 no murmurs, regular heartbeat. Abd: Soft, +BS, non tender and non distended, no masses, no organomegaly. Ext: No edema. Skin: no rash. Neuro: motor and sensory grossly intact. Musculoskeletal: Normal gait.
+
+IMPRESSION:
+1. Pancreatic adenocarcinoma: Patient currently on gemcitabine (abraxane discontinued due to intolerance). Recent hospitalization for severe fatigue and low blood pressure. CA 19-9 decreased from 150 to 108 during hospitalization, awaiting most recent value.
+2. Recent myocardial infarction: Required cardiac stent placement on 06/27/25 for 100% blockage. Now on Plavix in addition to aspirin.
+3. Iron deficiency anemia: Received blood transfusion and IV iron during recent hospitalization. Hemoglobin improved from 7.9 to 9.6 at discharge, now 11.3. Iron studies show improvement with iron 51 (was 21) and saturation 20% (was 8%).
+4. Lower extremity edema: Markedly improved following hospitalization and diuretic therapy.
+5. Chronic constipation: Managing with Miralax, though patient reports difficulty with timing medication when planning to go out due to unpredictability.
+6. Recent dental extraction with significant oral bleeding: Likely contributed to anemia and dark stools noted during hospitalization.
+
+PLAN:
+1. Continue gemcitabine at current reduced dose as patient is tolerating well with improved lower extremity edema.
+2. Monitor CBC closely due to dual antiplatelet therapy (aspirin and Plavix) increasing bleeding risk.
+3. Continue home hydration as arranged with Qualitas pharmacy.
+4. Monitor iron studies in one month to assess need for additional IV iron.
+5. Continue to monitor CA 19-9 trends.
+6. Refilled morphine ER 60mg tablets.
+7. Follow up in person in August.
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software.","CHIEF COMPLAINT:
+Evaluation and management of pancreatic cancer
+
+DISEASE HISTORY:
+73-year-old woman.
+8/31/23: Underwent a CT which revealed a moderate right pleural effusion, mild intra/extrahepatic biliary ductal dilatation, and an abnormal pancreatic duct dilatation. A mass was noted in the body/neck of the pancreas causing narrowing of the splenic vein. Celiac and SMA were patent.
+9/20/23: Underwent an MRI. She also had a negative EGD and colon. She ultimately saw Dr. Korman and had an EUS. Biopsy of the pancreas revealed fragments consistent with pancreatic adenocarcinoma.
+10/23: Began FOLFIRINOX. Significant issues with fatigue, cytopenias, and diarrhea.
+2/24: Scan with stable disease. Marker went to normal.
+3/14/24: Had distal pancreatectomy/splenectomy and splenic artery excision with Dr. Eskander. Path showed extensive disease; R2 resection, positive margin, T4 disease with disease involving celiac axis. Nodes negative.
+4/24: Wound infection.
+5/24: Readmitted. CA 199 had risen slightly. Admitted for severe abdominal pain controlled with narcotics.
+6/17/24: Initiated gem/abraxane.
+7/10/24: Adm after cycle 1 with dehydration and failure to thrive
+
+INTERVAL HISTORY:
+07/02/25: Patient presents for follow-up after recent hospitalization for severe fatigue and low blood pressure. Patient was admitted on 06/22/25 with extreme fatigue and inability to function. Three weeks prior to admission, patient experienced chest pains which were initially attributed to indigestion. Prior to admission, patient had dental extraction with subsequent profuse oral bleeding, likely contributing to anemia. During hospitalization, hemoglobin dropped to 7.7, prompting evaluation for bleeding sources. Cardiac evaluation revealed positive cardiac enzymes consistent with myocardial infarction. Cardiac catheterization revealed 100% blockage requiring stent placement on 06/27/25. Patient received blood transfusion and IV iron. Hemoglobin improved to 9.6 at discharge. CA 19-9 was 108 in hospital (down from 150 previously). CT scan during hospitalization showed no new pancreatic disease, only some colonic inflammation unrelated to cancer. Patient reports improved energy since discharge, especially when sitting, though still experiences fatigue attributed to chemotherapy. Constipation remains an ongoing issue managed with Miralax. Lower extremity edema has significantly improved since hospitalization. Currently on Plavix in addition to aspirin following cardiac stent placement.
+
+ALLERGIES:
+No known allergies
+No known drug allergies
+
+MEDICATIONS:
+Continued medications: aspirin 81 mg capsule, ATORVASTATIN CALCIUM 10 MG TABS, Creon 24000-76000-120000 unit capsule delayed release, Creon 24000-76000-120000 unit capsule delayed release, hyoscyamine 0.125 mg disintegrating tablet, hyoscyamine 0.125 mg disintegrating tablet, Januvia 50 mg tablet, lactulose 20 gram/30 mL oral solution, Lomotil 2.5 mg-0.025 mg tablet, Lomotil 2.5 mg-0.025 mg tablet, METFORMIN HYDROCHLORIDE 1000 MG TABS, morphine concentrate 100 mg/5 mL (20 mg/mL) oral solution, morphine ER 30 mg tablet extended release, morphine ER 60 mg tablet extended release, MORPHINE SULF 100MG/5ML(20MG/ML)SOL, Nivestym 300 mcg/0.5 mL subcutaneous syringe, Nivestym 300 mcg/mL injection solution, olanzapine 5 mg disintegrating tablet, ondansetron HCl 8 mg tablet, ondansetron HCl 8 mg tablet, oxycodone 5 mg tablet, oxycodone 5 mg tablet, potassium chloride ER 10 mEq tablet extended release, prednisone 10 mg tablet, prednisone 2.5 mg tablet, prochlorperazine maleate 10 mg tablet, Rolvedon 13.2 mg/0.6 mL subcutaneous syringe, senna 8.6 mg capsule, TOUJEO MAX SOLOSTAR 300 UNIT/ML SOPN, Udenyca 6 mg/0.6 mL subcutaneous syringe.
+New: Plavix (following cardiac stent placement)
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+OBJECTIVE:
+Physical Examination:
+Gen: Well developed well nourished. HEENT:PERRLA,EOMI, sclera anicteric, oropharynx clear. Nodes: No peripheral adenopathy. Chest: Clear bilaterally. Heart: S1 S2 no murmurs, regular heartbeat. Abd: Soft, +BS, non tender and non distended, no masses, no organomegaly. Ext: No edema. Skin: no rash. Neuro: motor and sensory grossly intact. Musculoskeletal: Normal gait.
+
+IMPRESSION:
+Pancreatic adenocarcinoma: Patient currently on gemcitabine (abraxane discontinued due to intolerance). Recent hospitalization for severe fatigue and low blood pressure. CA 19-9 decreased from 150 to 108 during hospitalization, awaiting most recent value. Recent CT scan during hospitalization showed no new pancreatic disease or progression. Maintaining preventive chemotherapy approach given absence of detectable disease on imaging. Patient tolerating current regimen well with dose reduction to prevent hematologic toxicity.
+Recent myocardial infarction: Required cardiac stent placement on 06/27/25 for 100% blockage. Cardiac symptoms likely exacerbated by anemia and bleeding. Now on dual antiplatelet therapy with Plavix and Eliquis. Will monitor blood counts closely given increased bleeding risk with dual anticoagulation.
+Iron deficiency anemia secondary to dental bleeding: Received blood transfusion and IV iron during recent hospitalization. Hemoglobin improved from 7.9 to 9.6 at discharge. Iron studies show improvement with iron 59 (was 21), saturation 20% (was 8%), ferritin elevated likely due to recent transfusion and iron infusion. Will monitor iron studies in 1 month and provide additional IV iron as needed.
+Bilateral pleural effusions: Previously drained with significant symptomatic improvement. Likely related to fluid overload from chemotherapy and home hydration, now resolved.
+Lower extremity edema: Markedly improved following pleural fluid drainage, diuretic therapy, and gemcitabine dose reduction. Current examination shows no edema, suggesting appropriate dose adjustment.
+Chronic constipation: Managing with Miralax. Patient modifies timing based on daily activities to avoid inconvenience.
+Recent dental extraction with significant oral bleeding: Likely contributed to anemia and dark stools noted during hospitalization.
+
+PLAN:
+Continue gemcitabine at current reduced dose as patient is tolerating well with improved lower extremity edema.
+Monitor CBC closely due to dual antiplatelet therapy (Eliquis and Plavix) increasing bleeding risk.
+Continue home hydration as arranged with Qualitas pharmacy.
+Monitor iron studies in one month to assess need for additional IV iron.
+Continue to monitor CA 19-9 trends.
+Refilled morphine ER 60mg tablets.
+Continue Miralax PRN for constipation management.
+Coordinate care with cardiology for ongoing cardiac management post-stent placement.
+Follow up in person in August.
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software.","CHIEF COMPLAINT:
+Evaluation and management of pancreatic cancer
+
+DISEASE HISTORY:
+73-year-old woman.
+8/31/23: Underwent a CT which revealed a moderate right pleural effusion, mild intra/extrahepatic biliary ductal dilatation, and an abnormal pancreatic duct dilatation. A mass was noted in the body/neck of the pancreas causing narrowing of the splenic vein. Celiac and SMA were patent.
+9/20/23: Underwent an MRI. She also had a negative EGD and colon. She ultimately saw Dr. Korman and had an EUS. Biopsy of the pancreas revealed fragments consistent with pancreatic adenocarcinoma.
+10/23: Began FOLFIRINOX. Significant issues with fatigue, cytopenias, and diarrhea.
+2/24: Scan with stable disease. Marker went to normal.
+3/14/24: Had distal pancreatectomy/splenectomy and splenic artery excision with Dr. Eskander. Path showed extensive disease; R2 resection, positive margin, T4 disease with disease involving celiac axis. Nodes negative.
+4/24: Wound infection.
+5/24: Readmitted. CA 199 had risen slightly. Admitted for severe abdominal pain controlled with narcotics.
+6/17/24: Initiated gem/abraxane.
+7/10/24: Adm after cycle 1 with dehydration and failure to thrive
+
+INTERVAL HISTORY:
+07/02/25: Patient presents for follow-up after recent hospitalization for severe fatigue and low blood pressure. Patient was admitted on 06/22/25 with extreme fatigue and inability to function. Three weeks prior to admission, patient experienced chest pains which were initially attributed to indigestion. Prior to admission, patient had dental extraction with subsequent profuse oral bleeding, likely contributing to anemia. During hospitalization, hemoglobin dropped to 7.7, prompting evaluation for bleeding sources. Cardiac evaluation revealed positive cardiac enzymes consistent with myocardial infarction. Cardiac catheterization revealed 100% blockage requiring stent placement on 06/27/25. Patient received blood transfusion and IV iron. Hemoglobin improved to 9.6 at discharge. CA 19-9 was 108 in hospital (down from 150 previously). CT scan during hospitalization showed no new pancreatic disease, only some colonic inflammation unrelated to cancer. Patient reports improved energy since discharge, especially when sitting, though still experiences fatigue attributed to chemotherapy. Constipation remains an ongoing issue managed with Miralax. Lower extremity edema has significantly improved since hospitalization. Currently on Plavix in addition to aspirin following cardiac stent placement.
+
+ALLERGIES:
+No known allergies
+No known drug allergies
+
+MEDICATIONS:
+Continued medications: aspirin 81 mg capsule, ATORVASTATIN CALCIUM 10 MG TABS, Creon 24000-76000-120000 unit capsule delayed release, Creon 24000-76000-120000 unit capsule delayed release, hyoscyamine 0.125 mg disintegrating tablet, hyoscyamine 0.125 mg disintegrating tablet, Januvia 50 mg tablet, lactulose 20 gram/30 mL oral solution, Lomotil 2.5 mg-0.025 mg tablet, Lomotil 2.5 mg-0.025 mg tablet, METFORMIN HYDROCHLORIDE 1000 MG TABS, morphine concentrate 100 mg/5 mL (20 mg/mL) oral solution, morphine ER 30 mg tablet extended release, morphine ER 60 mg tablet extended release, MORPHINE SULF 100MG/5ML(20MG/ML)SOL, Nivestym 300 mcg/0.5 mL subcutaneous syringe, Nivestym 300 mcg/mL injection solution, olanzapine 5 mg disintegrating tablet, ondansetron HCl 8 mg tablet, ondansetron HCl 8 mg tablet, oxycodone 5 mg tablet, oxycodone 5 mg tablet, potassium chloride ER 10 mEq tablet extended release, prednisone 10 mg tablet, prednisone 2.5 mg tablet, prochlorperazine maleate 10 mg tablet, Rolvedon 13.2 mg/0.6 mL subcutaneous syringe, senna 8.6 mg capsule, TOUJEO MAX SOLOSTAR 300 UNIT/ML SOPN, Udenyca 6 mg/0.6 mL subcutaneous syringe.
+New: Plavix (following cardiac stent placement)
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+OBJECTIVE:
+Physical Examination:
+Gen: Well developed well nourished. HEENT:PERRLA,EOMI, sclera anicteric, oropharynx clear. Nodes: No peripheral adenopathy. Chest: Clear bilaterally. Heart: S1 S2 no murmurs, regular heartbeat. Abd: Soft, +BS, non tender and non distended, no masses, no organomegaly. Ext: No edema. Skin: no rash. Neuro: motor and sensory grossly intact. Musculoskeletal: Normal gait.
+
+IMPRESSION:
+Pancreatic adenocarcinoma: Patient currently on gemcitabine (abraxane discontinued due to intolerance). Recent hospitalization for severe fatigue and low blood pressure. CA 19-9 decreased from 150 to 108 during hospitalization, awaiting most recent value. Recent CT scan during hospitalization showed no new pancreatic disease or progression. Maintaining preventive chemotherapy approach given absence of detectable disease on imaging. Patient tolerating current regimen well with dose reduction to prevent hematologic toxicity.
+Recent myocardial infarction: Required cardiac stent placement on 06/27/25 for 100% blockage. Cardiac symptoms likely exacerbated by anemia and bleeding. Now on dual antiplatelet therapy with Plavix and Eliquis. Will monitor blood counts closely given increased bleeding risk with dual anticoagulation.
+Iron deficiency anemia secondary to dental bleeding: Received blood transfusion and IV iron during recent hospitalization. Hemoglobin improved from 7.9 to 9.6 at discharge. Iron studies show improvement with iron 59 (was 21), saturation 20% (was 8%), ferritin elevated likely due to recent transfusion and iron infusion. Will monitor iron studies in 1 month and provide additional IV iron as needed.
+Bilateral pleural effusions: Previously drained with significant symptomatic improvement. Likely related to fluid overload from chemotherapy and home hydration, now resolved.
+Lower extremity edema: Markedly improved following pleural fluid drainage, diuretic therapy, and gemcitabine dose reduction. Current examination shows no edema, suggesting appropriate dose adjustment.
+Chronic constipation: Managing with Miralax. Patient modifies timing based on daily activities to avoid inconvenience.
+Recent dental extraction with significant oral bleeding: Likely contributed to anemia and dark stools noted during hospitalization.
+
+PLAN:
+Continue gemcitabine at current reduced dose as patient is tolerating well with improved lower extremity edema.
+Monitor CBC closely due to dual antiplatelet therapy (Eliquis and Plavix) increasing bleeding risk.
+Continue home hydration as arranged with Qualitas pharmacy.
+Monitor iron studies in one month to assess need for additional IV iron.
+Continue to monitor CA 19-9 trends.
+Refilled morphine ER 60mg tablets.
+Continue Miralax PRN for constipation management.
+Coordinate care with cardiology for ongoing cardiac management post-stent placement.
+Follow up in person in August.
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software."
+"CHIEF COMPLAINT:
+Evaluation and management of joint pain and fatigue with concern for possible lupus
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Anthony Moya is a 33-year-old male who presents to rheumatology clinic for evaluation of multiple joint pains, fatigue, and concern for possible lupus. Patient reports his mother has lupus. His symptoms include fatigue, difficulty sleeping, dry mouth, chest pain, constipation, bloating, headaches, memory loss, pain in multiple joints, anxiety, and depression. These symptoms have been present for approximately 4-5 years.
+
+Patient was previously seen in the ER in October 2023 for left arm and leg weakness and numbness. At that time, he had a normal EKG, negative CT head, and negative CT angiogram for large vessel occlusion. An echocardiogram showed no pericardial effusion, normal left ventricular size with ejection fraction of 55-60%, no mitral regurgitation, normal atrial size, and normal tricuspid valve structure. MRI of the cervical spine showed no evidence of cervical spinal cord parenchymal lesions or compression, with a suspected hemangioma noted. Brain MRI was negative according to the radiologist.
+
+Laboratory studies from January 2023 showed negative urinalysis, WBC 7.5, hemoglobin 14.4, hematocrit 44.2, platelet count 216, glucose 94, BUN 17, creatinine 0.91, sodium 141, potassium 4.3, chloride 102, carbon dioxide 25, alkaline phosphatase 66, AST 18, ALT 18.
+
+Patient reports joint pain primarily in his hands, particularly in the PIP joints. He notes that cold provides relief to his joint pain. He experiences chest pain that was previously diagnosed as costochondritis at JFK Hospital. He reports significant shortness of breath with exertion, specifically when playing sports for more than 5 minutes. He denies shortness of breath at rest. Patient also reports significant memory issues/brain fog, requiring him to write everything down to remember tasks and appointments. He reports poor sleep with frequent interruptions, sleeping approximately 6 hours per night. He has not been evaluated by a sleep specialist.
+
+PAST MEDICAL HISTORY:
+1. Acid reflux
+2. Scoliosis
+3. Costochondritis
+
+PAST SURGICAL HISTORY:
+None reported
+
+SOCIAL HISTORY:
+Marital Status: Single
+Living Arrangements: With Family
+Tobacco Use: Never Smoker
+Alcohol Use: Never
+Drinks per Day: 0
+Illicit Drug use: Negative
+
+OCCUPATION:
+Works 10 hours per day, specific occupation not stated
+
+FAMILY HISTORY:
+Mother has lupus
+Father has sciatica
+Grandfather had leg amputation, possibly due to diabetes
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+OBJECTIVE:
+Physical Examination:
+Gen: Well developed well nourished. HEENT: PERRLA, EOMI, sclera anicteric, oropharynx clear, no oral ulcers. Nodes: No peripheral adenopathy. Chest: Clear bilaterally. Heart: S1 S2 no murmurs, regular heartbeat.
+Abd: Soft, +BS, non tender and non distended, no masses, no organomegaly. Ext: No edema. Skin: No rash. Neuro: motor and sensory grossly intact. Musculoskeletal: Normal gait. No swelling noted in joints in both upper and lower extremities. Faber test negative bilaterally. Tenderness on palpation of trochanteric bursa region bilaterally. Mild crepitus noted on extension and flexion of the knees. No tenderness on palpation of the MTP joints bilaterally. Skin: No rashes noted on extremities or torso. Patient has nails that appear to be chewed on bilaterally. Slight discoloration of the first big toenail bilaterally with some chipping.
+
+ASSESSMENT:
+1. Chronic fatigue and joint pain - Clinically, I do not see any signs of underlying rheumatological inflammatory connective tissue disease or arthropathy. The patient does not have any rash, no photosensitivity rash, no oral ulcers, and no significant synovitis in the hands, feet, or any joints. The patient complains of fatigue, anxiety, and poor sleep, which raises concern for chronic fatigue syndrome/chronic pain syndrome. This is a diagnosis of exclusion, and comprehensive blood work will be ordered to rule out other possible etiologies.
+
+2. Acid reflux - Patient reports significant acid reflux with metallic taste in the morning and regurgitation. Previous trial of Pepcid resulted in allergic reaction with itching. Will refer to gastroenterology for further evaluation and management.
+
+3. Poor sleep - Patient reports interrupted sleep of approximately 6 hours per night with frequent awakenings. This may be contributing to his fatigue, joint pain, and cognitive issues. Will refer to sleep medicine for evaluation.
+
+4. Trochanteric bursitis - Patient has tenderness over bilateral trochanteric bursa regions. This may be related to his scoliosis and prolonged sitting for work.
+
+PLAN:
+Will order comprehensive laboratory studies including ANA, SSA, SSB, CBC, CMP, ESR, CRP, urinalysis, urine protein/creatinine ratio, RF, C3, C4, CCP, RNP, Smith antibody, double-stranded DNA, hepatitis B core antibody, hepatitis B surface antibody, hepatitis B surface antigen, hepatitis C antibody, and QuantiFERON Gold.
+
+Referral to gastroenterology for evaluation of acid reflux.
+Referral to sleep medicine for evaluation of sleep disturbance.
+Referral to primary care physician (Dr. Caracetas) for establishment of care.
+Patient to return to clinic in two weeks to review laboratory results.
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software.","CHIEF COMPLAINT:
+Evaluation and management of joint pain and fatigue with concern for possible lupus
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Anthony Moya is a 33-year-old male who presents to rheumatology clinic for evaluation of multiple joint pains, fatigue, and concern for possible lupus. Patient reports his mother has lupus. His symptoms include fatigue, difficulty sleeping, dry mouth, chest pain, constipation, bloating, headaches, memory loss, pain in multiple joints, anxiety, and depression. These symptoms have been present for approximately 4-5 years.
+
+Patient was previously seen in the ER in October 2023 for left arm and leg weakness and numbness. At that time, he had a normal EKG, negative CT head, and negative CT angiogram for large vessel occlusion. An echocardiogram showed no pericardial effusion, normal left ventricular size with ejection fraction of 55-60%, no mitral regurgitation, normal atrial size, and normal tricuspid valve structure. MRI of the cervical spine showed no evidence of cervical spinal cord parenchymal lesions or compression, with a suspected hemangioma noted. Brain MRI was negative according to the radiologist.
+
+Laboratory studies from January 2023 showed negative urinalysis, WBC 7.5, hemoglobin 14.4, hematocrit 44.2, platelet count 216, glucose 94, BUN 17, creatinine 0.91, sodium 141, potassium 4.3, chloride 102, carbon dioxide 25, alkaline phosphatase 66, AST 18, ALT 18.
+
+Patient reports joint pain primarily in his hands, particularly in the PIP joints. He notes that cold provides relief to his joint pain. He experiences chest pain that was previously diagnosed as costochondritis at JFK Hospital. He reports significant shortness of breath with exertion, specifically when playing sports for more than 5 minutes. He denies shortness of breath at rest. Patient also reports significant memory issues/brain fog, requiring him to write everything down to remember tasks and appointments. He reports poor sleep with frequent interruptions, sleeping approximately 6 hours per night. He has not been evaluated by a sleep specialist.
+
+PAST MEDICAL HISTORY:
+1. Acid reflux
+2. Scoliosis
+3. Costochondritis
+
+PAST SURGICAL HISTORY:
+None reported
+
+SOCIAL HISTORY:
+Marital Status: Single
+Living Arrangements: With Family
+Tobacco Use: Never Smoker
+Alcohol Use: Never
+Drinks per Day: 0
+Illicit Drug use: Negative
+
+OCCUPATION:
+Works 10 hours per day, specific occupation not stated
+
+FAMILY HISTORY:
+Mother has lupus
+Father has sciatica
+Grandfather had leg amputation, possibly due to diabetes
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+OBJECTIVE:
+Physical Examination:
+Gen: Well developed well nourished. HEENT: PERRLA, EOMI, sclera anicteric, oropharynx clear, no oral ulcers. Nodes: No peripheral adenopathy. Chest: Clear bilaterally. Heart: S1 S2 no murmurs, regular heartbeat.
+Abd: Soft, +BS, non tender and non distended, no masses, no organomegaly. Ext: No edema. Skin: No rash. Neuro: motor and sensory grossly intact. Musculoskeletal: Normal gait. No swelling noted in joints in both upper and lower extremities. Faber test negative bilaterally. Tenderness on palpation of trochanteric bursa region bilaterally. Mild crepitus noted on extension and flexion of the knees. No tenderness on palpation of the MTP joints bilaterally. Skin: No rashes noted on extremities or torso. Patient has nails that appear to be chewed on bilaterally. Slight discoloration of the first big toenail bilaterally with some chipping.
+
+ASSESSMENT:
+1. Chronic fatigue and joint pain - Clinically, I do not see any signs of underlying rheumatological inflammatory connective tissue disease or arthropathy. The patient does not have any rash, no photosensitivity rash, no oral ulcers, and no significant synovitis in the hands, feet, or any joints. The patient complains of fatigue, anxiety, and poor sleep, which raises concern for chronic fatigue syndrome/chronic pain syndrome. This is a diagnosis of exclusion, and comprehensive blood work will be ordered to rule out other possible etiologies.
+
+2. Acid reflux - Patient reports significant acid reflux with metallic taste in the morning and regurgitation. Previous trial of Pepcid resulted in allergic reaction with itching. Will refer to gastroenterology for further evaluation and management.
+
+3. Poor sleep - Patient reports interrupted sleep of approximately 6 hours per night with frequent awakenings. This may be contributing to his fatigue, joint pain, and cognitive issues. Will refer to sleep medicine for evaluation.
+
+4. Trochanteric bursitis - Patient has tenderness over bilateral trochanteric bursa regions. This may be related to his scoliosis and prolonged sitting for work.
+
+PLAN:
+Will order comprehensive laboratory studies including ANA, SSA, SSB, CBC, CMP, ESR, CRP, urinalysis, urine protein/creatinine ratio, RF, C3, C4, CCP, RNP, Smith antibody, double-stranded DNA, hepatitis B core antibody, hepatitis B surface antibody, hepatitis B surface antigen, hepatitis C antibody, and QuantiFERON Gold.
+
+Referral to gastroenterology for evaluation of acid reflux.
+Referral to sleep medicine for evaluation of sleep disturbance.
+Referral to primary care physician (Dr. Caracetas) for establishment of care.
+Patient to return to clinic in two weeks to review laboratory results.
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software.","CHIEF COMPLAINT:
+Evaluation and management of joint pain and fatigue with concern for possible lupus
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Anthony Moya is a 33-year-old male who presents to rheumatology clinic for evaluation of multiple joint pains, fatigue, and concern for possible lupus. Patient reports his mother has lupus. His symptoms include fatigue, difficulty sleeping, dry mouth, chest pain, constipation, bloating, headaches, memory loss, pain in multiple joints, anxiety, and depression. These symptoms have been present for approximately 4-5 years.
+
+Patient was previously seen in the ER in October 2023 for left arm and leg weakness and numbness. At that time, he had a normal EKG, negative CT head, and negative CT angiogram for large vessel occlusion. An echocardiogram showed no pericardial effusion, normal left ventricular size with ejection fraction of 55-60%, no mitral regurgitation, normal atrial size, and normal tricuspid valve structure. MRI of the cervical spine showed no evidence of cervical spinal cord parenchymal lesions or compression, with a  possible suspected hemangioma noted. Brain MRI was negative according to the radiologist.
+
+Laboratory studies from January 2023 showed negative urinalysis, WBC 7.5, hemoglobin 14.4, hematocrit 44.2, platelet count 216, glucose 94, BUN 17, creatinine 0.91, sodium 141, potassium 4.3, chloride 102, carbon dioxide 25, alkaline phosphatase 66, AST 18, ALT 18.
+
+Patient reports joint pain primarily in his hands, particularly in the PIP joints. He notes that cold provides relief to his joint pain. He experiences chest pain that was previously diagnosed as costochondritis at JFK Hospital. He reports significant shortness of breath with exertion, specifically when playing sports for more than 5 minutes. He denies shortness of breath at rest. Patient also reports significant memory issues/brain fog, requiring him to write everything down to remember tasks and appointments. He reports poor sleep with frequent interruptions, sleeping approximately 6 hours per night. He has not been evaluated by a sleep specialist.
+
+PAST MEDICAL HISTORY:
+1. Acid reflux
+2. Scoliosis
+3. Costochondritis
+
+PAST SURGICAL HISTORY:
+None reported
+
+SOCIAL HISTORY:
+Marital Status: Single
+Living Arrangements: With Family
+Tobacco Use: Never Smoker
+Alcohol Use: Never
+Drinks per Day: 0
+Illicit Drug use: Negative
+
+OCCUPATION:
+Works 10 hours per day, specific occupation not stated
+
+FAMILY HISTORY:
+Mother has lupus
+Father has sciatica
+Grandfather had leg amputation, possibly due to diabetes
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+OBJECTIVE:
+Physical Examination:
+Gen: Well developed well nourished. 
+HEENT: PERRLA, EOMI, sclera anicteric, oropharynx clear, no oral ulcers. 
+Nodes: No cervical adenopathy. 
+Chest: Clear bilaterally. 
+Heart: S1 S2 no murmurs, regular heartbeat.
+ Ext: No edema. 
+Skin: No rash.  No rashes noted on extremities or torso. Patient has nails that appear to be chewed on bilaterally. Slight discoloration of the first big toenail bilaterally with some chipping.
+
+Neuro: motor and sensory grossly intact. Musculoskeletal: Normal gait. No swelling noted in joints in both upper and lower extremities. Faber test negative bilaterally. Tenderness on palpation of trochanteric bursa region bilaterally. Mild crepitus noted on extension and flexion of the knees. No tenderness on palpation of the MTP joints bilaterally.  No tenderness on palpation of the Achilles tendon insertion site bilaterally.
+
+ASSESSMENT:
+1. Chronic fatigue and joint pain - Clinically, I do not see any signs of underlying rheumatological inflammatory connective tissue disease or arthropathy. The patient does not have any rash, no photosensitivity rash, no oral ulcers, and no significant synovitis in the hands, feet, or any joints. The patient complains of fatigue, anxiety, and poor sleep, which raises concern for chronic fatigue syndrome/chronic pain syndrome. This is a diagnosis of exclusion, and comprehensive blood work will be ordered to rule out other possible etiologies.
+
+2. Acid reflux - Patient reports significant acid reflux with metallic taste in the morning and regurgitation. Previous trial of Pepcid resulted in allergic reaction with itching. Will refer to gastroenterology for further evaluation and management.
+
+3. Poor sleep - Patient reports interrupted sleep of approximately 6 hours per night with frequent awakenings. This may be contributing to his fatigue, joint pain, and cognitive issues. Will refer to sleep medicine for evaluation.
+
+4. Trochanteric bursitis - Patient has tenderness over bilateral trochanteric bursa regions. This may be related to his scoliosis and prolonged sitting for work.
+
+PLAN:
+Will order comprehensive laboratory studies including ANA, SSA, SSB, CBC, CMP, ESR, CRP, urinalysis, urine protein/creatinine ratio, RF, C3, C4, CCP, RNP, Smith antibody, double-stranded DNA, hepatitis B core antibody, hepatitis B surface antibody, hepatitis B surface antigen, hepatitis C antibody, and QuantiFERON Gold.
+
+Referral to gastroenterology for evaluation of acid reflux.
+Referral to sleep medicine for evaluation of sleep disturbance.
+Referral to primary care physician for establishment of care.
+Patient to return to clinic in two weeks to review laboratory results.
+"
+"CHIEF COMPLAINT:
+Evaluation and management of recurrent perianal squamous cell carcinoma
+
+DISEASE HISTORY:
+Patient is a 63 year old HIV + pt who has a complex history of perianal disease. 2009: He had excision of anal warts (condyloma acuminatum), positive for HSV. 2011:  He had biopsies of perianal lesions, negative for malignancy. 2012: In March of 2012, he had wide excision of perianal lesion (9 cm) with gluteal flap, with plastic surgery for skin grafting. Pathology of the wide excision showed HPV infection (focal equivocal) but no documented cancer. 2013: The patient subsequently received radiation therapy from March 10, 2013 to April 10, 2013, with 3,600 cGy delivered to the perineum and a nodule. He had multiple resections of perianal warts before and after 2015. He also has a history of surgery for squamous cell carcinoma of scrotum. 2023: Patient underwent colonoscopy in 2023 by Dr. Scully which showed polyps and a wound near the left anus, but biopsies were negative for malignancy. 2025: A repeat colonoscopy by Dr. Scully revealed moderately differentiated squamous cell carcinoma on the left perianal area. HSV and HPV testing were negative on current biopsy. CT scan performed on 4-7-2025 showed a 7mm right upper lobe lung nodule, unchanged, and minimal stranding/inflammation in the left perianal tissues with no other significant findings. Patient reports pain with sitting following recent biopsy and occasional bleeding with wiping. Patient also reports intermittent pain in back, legs, and chest since the biopsy procedure.
+
+INTERVAL HISTORY:
+06/18/25: Patient presents for follow-up of recurrent perianal squamous cell carcinoma. Reports continued pain in the perianal area with drainage and odor. Has been seen by Dr. Nahas who prescribed a 5-day course of antibiotics for inflammation. Patient reports the area is still painful but Dr. Saeed noted it ""looks better"" and cleared patient to start radiation therapy. Patient has upcoming radiation oncology appointment on Friday. Reports pain in groin area when walking. Also reports nighttime cough which may be related to asthma.
+
+ALLERGIES:
+No known allergies
+No known drug allergies
+
+MEDICATIONS:
+Continued medications: Dovato 50 mg-300 mg tablet, rosuvastatin 10 mg tablet.
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+OBJECTIVE:
+Physical Examination:
+Gen: Well developed well nourished. HEENT:PERRLA,EOMI, sclera anicteric, oropharynx clear. Nodes: No peripheral adenopathy. Chest: Clear bilaterally. Heart: S1 S2 no murmurs, regular heartbeat. Abd: Soft, +BS, non tender and non distended, no masses, no organomegaly. Ext: No edema. Skin: Perianal area shows approximately 2x2 cm open wound with drainage. Area appears smaller than on previous examination. Neuro: motor and sensory grossly intact. Musculoskeletal: Normal gait.
+
+IMPRESSION:
+1. Recurrent moderately differentiated squamous cell carcinoma of the perianal skin, left side (assuming had prior). Patient has complex history of perianal disease with prior wide excision in 2012 and radiation therapy from 3-12-2013 to 4-10-2013. Current biopsy confirms moderately differentiated squamous cell carcinoma, now HSV and HPV negative. CT scan from 4-7-2025 shows minimal inflammatory changes in the left perianal region without evidence of metastatic disease. Currently has a 2cm open wound at the biopsy site, approximately 4-5cm from the anal opening with surrounding induration. Treatment options are complex given prior radiation to the area. Standard treatment would include chemoradiation such as the Nigro protocol, but this may not be possible due to prior radiation exposure. He saw Dr. Saeed who is hopeful he could receive CRT given he did not receive full dose RT prior. He is due to see Rad onc shortly. Will coordinate with radiation oncology to review prior radiation records (from Dr. Gopal Desai in 2013), including radiation fields and total dose delivered (reported as 3,600 cGy to the primary area). PET scan scheduled for 05/15/25 to evaluate for metastatic disease. Radiation oncology consultation ordered. Treatment plan will include oral chemotherapy during radiation treatments with IV chemotherapy on day 1 of week 1 and potentially day 1 of week 5 if blood counts remain adequate. Discussed potential side effects including risk of wound complications given patient's history of requiring skin grafting after previous radiation. Plastic surgery evaluation may be needed to assess wound healing potential. Patient expresses understanding of treatment plan and anxiety about potential disease spread.
+2. History of recurrent condyloma acuminatum (anal warts) with multiple prior excisions. Complex history of recurrent perianal disease dating back to 2009. Initial diagnosis of condyloma acuminatum positive for HSV in 2009. Multiple subsequent excisions between 2009-2015 for recurrent disease. Patient reports prior treatment with topical cream with temporary improvement. Will ensure coordination with infectious disease regarding ongoing management.
+3. HIV positive, currently undetectable on medication. Currently maintained on Dovato with undetectable viral load. Followed regularly by infectious disease specialist Dr. Nahass every 3 months. Will coordinate cancer treatment plan with Dr. Nahass to ensure comprehensive care.
+4. History of squamous cell carcinoma of scrotum, status post excision.
+5. 7mm right upper lobe lung nodule, unchanged from prior imaging. Stability suggests benign etiology. Will continue surveillance as part of routine cancer follow-up.
+6. Lymphadenopathy in groin area noted on PET scan, likely related to primary perianal malignancy. Patient reports pain in groin area with walking. Radiation field will include this area.
+
+PLAN:
+1. Coordinating chemoradiation treatment with radiation oncology and infectious disease.
+2. Ordered IV chemotherapy to be administered once radiation start date is confirmed.
+3. Patient to continue oral chemotherapy pills during radiation treatment.
+4. Sent message to radiation oncologist to coordinate start date for comprehensive treatment.
+5. Will monitor CBC and other labs every 1-2 weeks during treatment.
+6. Monitor for treatment side effects including hand-foot syndrome, mucositis, and bleeding.
+7. Continue infectious disease management with Dr. Nahass who has cleared patient for concurrent treatments.
+8. Patient to have two more infusions with infectious disease (one this Friday and one on approximately 07/07/25).
+9. Follow up in 2 weeks after treatment initiation.
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software.","CHIEF COMPLAINT:
+Evaluation and management of recurrent perianal squamous cell carcinoma
+
+DISEASE HISTORY:
+Patient is a 63 year old HIV + pt who has a complex history of perianal disease. 
+2009: He had excision of anal warts (condyloma acuminatum), positive for HSV. 
+2011:  He had biopsies of perianal lesions, negative for malignancy. 
+2012: In March of 2012, he had wide excision of perianal lesion (9 cm) with gluteal flap, with plastic surgery for skin grafting. Pathology of the wide excision showed HPV infection (focal equivocal) but no documented cancer. 
+2013: The patient subsequently received radiation therapy from March 10, 2013 to April 10, 2013, with 3,600 cGy delivered to the perineum and a nodule. He had multiple resections of perianal warts before and after 2015. He also has a history of surgery for squamous cell carcinoma of scrotum. 
+2023: Patient underwent colonoscopy in 2023 by Dr. Scully which showed polyps and a wound near the left anus, but biopsies were negative for malignancy.
+2025: A repeat colonoscopy by Dr. Scully revealed moderately differentiated squamous cell carcinoma on the left perianal area. HSV and HPV testing were negative on current biopsy. CT scan performed on 4-7-2025 showed a 7mm right upper lobe lung nodule, unchanged, and minimal stranding/inflammation in the left perianal tissues with no other significant findings. Patient reports pain with sitting following recent biopsy and occasional bleeding with wiping. Patient also reports intermittent pain in back, legs, and chest since the biopsy procedure.
+
+INTERVAL HISTORY:
+06/18/25: Patient presents for follow-up of recurrent perianal squamous cell carcinoma. Reports continued pain in the perianal area with drainage and odor. Patient has completed 2 infusions with infectious disease specialist Dr. Nahass for HSV treatment, with 2 additional infusions planned for Friday and approximately 7/7/25. Dr. Nahass has cleared patient to coordinate cancer treatment with chemoradiation. Patient received 5 days of antibiotics from Dr. Saeed for inflammation in left buttock area and was told the area looks better and he can start radiation. Patient has upcoming radiation oncology appointment on Friday. Reports pain in groin area when walking. Also reports nighttime cough which may be related to asthma.
+
+ALLERGIES:
+No known allergies
+No known drug allergies
+
+MEDICATIONS:
+Continued medications: Dovato 50 mg-300 mg tablet, rosuvastatin 10 mg tablet.
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+OBJECTIVE:
+Physical Examination:
+Gen: Well developed well nourished. HEENT:PERRLA,EOMI, sclera anicteric, oropharynx clear. Nodes: No peripheral adenopathy. Chest: Clear bilaterally. Heart: S1 S2 no murmurs, regular heartbeat. Abd: Soft, +BS, non tender and non distended, no masses, no organomegaly. Ext: No edema. Skin: Perianal area shows approximately 2x2 cm open wound with drainage. Area appears smaller than on previous examination. Neuro: motor and sensory grossly intact. Musculoskeletal: Normal gait.
+
+IMPRESSION:
+Recurrent moderately differentiated squamous cell carcinoma of the perianal skin, left side (assuming had prior). Patient has complex history of perianal disease with prior wide excision in 2012 and radiation therapy from 3-12-2013 to 4-10-2013. Current biopsy confirms moderately differentiated squamous cell carcinoma, now HSV and HPV negative. CT scan from 4-7-2025 shows minimal inflammatory changes in the left perianal region without evidence of metastatic disease. PET scan has identified lymph node involvement in the groin area. Currently has a 2cm open wound at the biopsy site, approximately 4-5cm from the anal opening with surrounding induration, appears smaller than previously noted. Treatment options are complex given prior radiation to the area. Standard treatment would include chemoradiation such as the Nigro protocol, but this may not be possible due to prior radiation exposure. He saw Dr. Saeed who is hopeful he could receive CRT given he did not receive full dose RT prior. He is due to see Rad onc shortly. Patient cleared by infectious disease specialist Dr. Nahass to proceed with concurrent chemoradiation therapy. Will coordinate with radiation oncology to review prior radiation records (from Dr. Gopal Desai in 2013), including radiation fields and total dose delivered (reported as 3,600 cGy to the primary area). Treatment plan will include oral chemotherapy during radiation treatments with IV chemotherapy on day 1 of week 1 and potentially day 1 of week 5 if blood counts remain adequate. Radiation fields will include coverage of identified groin lymph node. Awaiting radiation oncology to determine start date for coordinated treatment approach. Patient has received education regarding potential side effects. Plastic surgery evaluation may be needed to assess wound healing potential. Blood counts remain adequate for treatment initiation. 
+History of recurrent condyloma acuminatum (anal warts) with multiple prior excisions. Complex history of recurrent perianal disease dating back to 2009. Initial diagnosis of condyloma acuminatum positive for HSV in 2009. Multiple subsequent excisions between 2009-2015 for recurrent disease. Patient reports prior treatment with topical cream with temporary improvement. Patient currently receiving targeted antiviral therapy with Dr. Nahass with 2 infusions completed and 2 additional sessions planned. Dr. Nahass reports improvement in inflammatory changes in left buttock area following antibiotic treatment. Concurrent HSV treatment being coordinated with cancer therapy as patient has dual pathology contributing to perianal disease process.
+HIV positive, currently undetectable on medication. Currently maintained on Dovato with undetectable viral load. Followed regularly by infectious disease specialist Dr. Nahass every 3 months. Will coordinate cancer treatment plan with Dr. Nahass to ensure comprehensive care.
+History of squamous cell carcinoma of scrotum, status post excision.
+7mm right upper lobe lung nodule, unchanged from prior imaging. Stability suggests benign etiology. Will continue surveillance as part of routine cancer follow-up.
+Lymphadenopathy in groin area noted on PET scan, likely related to primary perianal malignancy. Patient reports pain in groin area with walking. Radiation field will include this area.
+
+PLAN:
+Coordinating chemoradiation treatment with radiation oncology and infectious disease.
+Ordered IV chemotherapy to be administered once radiation start date is confirmed.
+Patient to continue oral chemotherapy pills during radiation treatment.
+Sent message to radiation oncologist to coordinate start date for comprehensive treatment.
+Will monitor CBC and other labs every 1-2 weeks during treatment.
+Monitor for treatment side effects including hand-foot syndrome, mucositis, and bleeding.
+Continue infectious disease management with Dr. Nahass who has cleared patient for concurrent treatments.
+Patient to have two more infusions with infectious disease (one this Friday and one on approximately 07/07/25).
+Follow up in 2 weeks after treatment initiation.
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software.","CHIEF COMPLAINT:
+Evaluation and management of recurrent perianal squamous cell carcinoma
+
+DISEASE HISTORY:
+Patient is a 63 year old HIV + pt who has a complex history of perianal disease. 
+2009: He had excision of anal warts (condyloma acuminatum), positive for HSV. 
+2011:  He had biopsies of perianal lesions, negative for malignancy. 
+2012: In March of 2012, he had wide excision of perianal lesion (9 cm) with gluteal flap, with plastic surgery for skin grafting. Pathology of the wide excision showed HPV infection (focal equivocal) but no documented cancer. 
+2013: The patient subsequently received radiation therapy from March 10, 2013 to April 10, 2013, with 3,600 cGy delivered to the perineum and a nodule. He had multiple resections of perianal warts before and after 2015. He also has a history of surgery for squamous cell carcinoma of scrotum. 
+2023: Patient underwent colonoscopy in 2023 by Dr. Scully which showed polyps and a wound near the left anus, but biopsies were negative for malignancy.
+2025: A repeat colonoscopy by Dr. Scully revealed moderately differentiated squamous cell carcinoma on the left perianal area. HSV and HPV testing were negative on current biopsy. CT scan performed on 4-7-2025 showed a 7mm right upper lobe lung nodule, unchanged, and minimal stranding/inflammation in the left perianal tissues with no other significant findings. Patient reports pain with sitting following recent biopsy and occasional bleeding with wiping. Patient also reports intermittent pain in back, legs, and chest since the biopsy procedure.
+
+INTERVAL HISTORY:
+06/18/25: Patient presents for follow-up of recurrent perianal squamous cell carcinoma. Reports continued pain in the perianal area with drainage and odor. Patient has completed 2 infusions with infectious disease specialist Dr. Nahass for HSV treatment, with 2 additional infusions planned for Friday and approximately 7/7/25. Dr. Nahass has cleared patient to coordinate cancer treatment with chemoradiation. Patient received 5 days of antibiotics from Dr. Saeed for inflammation in left buttock area and was told the area looks better and he can start radiation. Patient has upcoming radiation oncology appointment on Friday. Reports pain in groin area when walking. Also reports nighttime cough which may be related to asthma.
+
+ALLERGIES:
+No known allergies
+No known drug allergies
+
+MEDICATIONS:
+Continued medications: Dovato 50 mg-300 mg tablet, rosuvastatin 10 mg tablet.
+
+REVIEW OF SYSTEMS:
+The ROS is negative in 12 point detail except for the pertinent positives and negatives listed in HPI and below
+
+OBJECTIVE:
+Physical Examination:
+Gen: Well developed well nourished. HEENT:PERRLA,EOMI, sclera anicteric, oropharynx clear. Nodes: No peripheral adenopathy. Chest: Clear bilaterally. Heart: S1 S2 no murmurs, regular heartbeat. Abd: Soft, +BS, non tender and non distended, no masses, no organomegaly. Ext: No edema. Skin: Perianal area shows approximately 2x2 cm open wound with drainage. Area appears smaller than on previous examination. Neuro: motor and sensory grossly intact. Musculoskeletal: Normal gait.
+
+IMPRESSION:
+Recurrent moderately differentiated squamous cell carcinoma of the perianal skin, left side. Patient has complex history of perianal disease with prior wide excision in 2012 and radiation therapy from 3-12-2013 to 4-10-2013. Current biopsy confirms moderately differentiated squamous cell carcinoma, now HSV and HPV negative. CT scan from 4-7-2025 shows minimal inflammatory changes in the left perianal region without evidence of metastatic disease. PET scan has identified lymph node involvement in the groin area. 
+Just completed short course of therapy for HSV. Now ID feels we can start Nigro protocol. Coordinating with Rad Onc. He has already had teaching for Xeloda and Mitomycin. Awaiting radiation oncology to determine start date for coordinated treatment approach.  Plastic surgery evaluation may be needed to assess wound healing potential. Blood counts remain adequate for treatment initiation. 
+History of recurrent condyloma acuminatum (anal warts) with multiple prior excisions. Complex history of recurrent perianal disease dating back to 2009. Initial diagnosis of condyloma acuminatum positive for HSV in 2009. Multiple subsequent excisions between 2009-2015 for recurrent disease. Patient currently receiving targeted antiviral therapy with Dr. Nahass with 2 infusions completed and 2 additional sessions planned. Dr. Nahass reports improvement in inflammatory changes in left buttock area following antibiotic treatment. Concurrent HSV treatment being coordinated with cancer therapy as patient has dual pathology contributing to perianal disease process.
+HIV positive, currently undetectable on medication. Currently maintained on Dovato with undetectable viral load. Followed regularly by infectious disease specialist Dr. Nahass every 3 months. Will coordinate cancer treatment plan with Dr. Nahass to ensure comprehensive care.
+7mm right upper lobe lung nodule, unchanged from prior imaging. Stability suggests benign etiology. Will continue surveillance as part of routine cancer follow-up.
+Lymphadenopathy in groin area noted on PET scan, likely related to primary perianal malignancy. 
+
+PLAN:
+Coordinating chemoradiation treatment with radiation oncology and infectious disease.
+Ordered IV and oral chemotherapy to be administered once radiation start date is confirmed.
+Patient to continue oral chemotherapy pills during radiation treatment.
+Sent message to radiation oncologist to coordinate start date for comprehensive treatment.
+Will monitor CBC and other labs every 1-2 weeks during treatment.
+Monitor for treatment side effects including hand-foot syndrome, mucositis, and bleeding as well as cytopenias.
+Continue infectious disease management with Dr. Nahass who has cleared patient for concurrent treatments.
+Patient to have two more infusions with infectious disease (one this Friday and one on approximately 07/07/25).
+Follow up in 2 weeks after treatment initiation.
+
+Patient has given prior verbal consent to have the conversation recorded and summarized by the Knowtex software."

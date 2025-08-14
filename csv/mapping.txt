@@ -1,0 +1,10 @@
+dynamo <-> postgre
+---
+history_of_present_illness <-> hpi
+original_transcript <-> diarized_transcript
+reviewed_note <-> note
+soap_note <-> note
+audio_upload_date <-> date_of_appt
+job_start_time/job_end_time <-> created_at/time_spent
+reviewer_id <-> user_id
+icd10_codes.icd10_res / icd10_codes.icd10_codes_res <-> icd10_codes_v2
